@@ -5,9 +5,6 @@
   </a>
 </p>
 
-<!-- Title -->
-<h1 align="center"><b>CS112.N21.KHCL - PHÂN TÍCH VÀ THIẾT KẾ THUẬT TOÁN</b></h1>
-<h1 align="center"><b>ALGORITHM ANALYSIS AND DESIGN</b></h1>
 
 ## GIỚI THIỆU MÔN HỌC
 * **Tên môn học:** Máy Học - Machine Learning
