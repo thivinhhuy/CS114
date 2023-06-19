@@ -1,0 +1,409 @@
+{"is_sarcastic": 0, "headline": "hoa hậu chuyển giới gây tranh cãi khi diễn catwalk lố lăng ", "article_link": "https://tienphong.vn/hoa-hau-chuyen-gioi-gay-tranh-cai-khi-dien-catwalk-lo-lang-post1544112.tpo"}
+{"is_sarcastic": 0, "headline": "á hậu hoàn vũ sinh con đầu lòng với chồng hơn 31 tuổi", "article_link": "https://tienphong.vn/a-hau-hoan-vu-sinh-con-dau-long-voi-chong-hon-31-tuoi-post1544091.tpo"}
+{"is_sarcastic": 0, "headline": "thí sinh hoa hậu hòa bình colombia nóng bỏng với bikini ", "article_link": "https://tienphong.vn/thi-sinh-hoa-hau-hoa-binh-colombia-nong-bong-voi-bikini-post1544078.tpo"}
+{"is_sarcastic": 0, "headline": "tiếng anh của đại diện việt nam ở hoa hậu siêu quốc gia lại gây tranh cãi", "article_link": "https://tienphong.vn/tieng-anh-cua-dai-dien-viet-nam-o-hoa-hau-sieu-quoc-gia-lai-gay-tranh-cai-post1543856.tpo"}
+{"is_sarcastic": 0, "headline": "cựu hoa hậu bị bắt ", "article_link": "https://tienphong.vn/cuu-hoa-hau-bi-bat-post1543865.tpo"}
+{"is_sarcastic": 0, "headline": "hoa hậu chuyển giới philippines hớ hênh vì mặc đồ xuyên thấu", "article_link": "https://tienphong.vn/hoa-hau-chuyen-gioi-philippines-ho-henh-vi-mac-do-xuyen-thau-post1543720.tpo"}
+{"is_sarcastic": 0, "headline": "nhan sắc dàn thí sinh hoa hậu hoà bình colombia được khen ngợi", "article_link": "https://tienphong.vn/nhan-sac-dan-thi-sinh-hoa-hau-hoa-binh-colombia-duoc-khen-ngoi-post1543474.tpo"}
+{"is_sarcastic": 0, "headline": "nhan sắc nữ cảnh sát đăng quang hoa hậu ở mỹ", "article_link": "https://tienphong.vn/nhan-sac-nu-canh-sat-dang-quang-hoa-hau-o-my-post1543735.tpo"}
+{"is_sarcastic": 0, "headline": "người đẹp từng sang việt nam thi hoa hậu qua đời ở tuổi 29", "article_link": "https://tienphong.vn/nguoi-dep-tung-sang-viet-nam-thi-hoa-hau-qua-doi-o-tuoi-29-post1543445.tpo"}
+{"is_sarcastic": 0, "headline": "thí sinh hoa hậu hòa bình ngã xuống bể bơi khi thi bikini", "article_link": "https://tienphong.vn/thi-sinh-hoa-hau-hoa-binh-nga-xuong-be-boi-khi-thi-bikini-post1543462.tpo"}
+{"is_sarcastic": 0, "headline": "nhan sắc dàn thí sinh hoa hậu chuyển giới quốc tế 2023 ", "article_link": "https://tienphong.vn/nhan-sac-dan-thi-sinh-hoa-hau-chuyen-gioi-quoc-te-2023-post1543425.tpo"}
+{"is_sarcastic": 0, "headline": "hoa hậu trái đất từ bỏ vương miện, tiếp tục thi hoa hậu hoàn vũ ", "article_link": "https://tienphong.vn/hoa-hau-trai-dat-tu-bo-vuong-mien-tiep-tuc-thi-hoa-hau-hoan-vu-post1543351.tpo"}
+{"is_sarcastic": 0, "headline": "chỉ số tia cực tím tại tphcm đang ở ngưỡng gây hại rất cao ", "article_link": "https://tienphong.vn/chi-so-tia-cuc-tim-tai-tphcm-dang-o-nguong-gay-hai-rat-cao-post1544064.tpo"}
+{"is_sarcastic": 0, "headline": "khánh thành cao tốc vĩnh hảo - phan thiết gần 11.000 tỷ đồng", "article_link": "https://tienphong.vn/khanh-thanh-cao-toc-vinh-hao-phan-thiet-gan-11000-ty-dong-post1543936.tpo"}
+{"is_sarcastic": 0, "headline": "bà rịa – vũng tàu khởi công 2 dự án cầu, đường hơn 10.000 tỷ đồng", "article_link": "https://tienphong.vn/ba-ria-vung-tau-khoi-cong-2-du-an-cau-duong-hon-10000-ty-dong-post1543883.tpo"}
+{"is_sarcastic": 0, "headline": "lời kể của người phụ nữ rơi từ tầng 4, kẹt giữa 2 vách nhà", "article_link": "https://tienphong.vn/loi-ke-cua-nguoi-phu-nu-roi-tu-tang-4-ket-giua-2-vach-nha-post1543778.tpo"}
+{"is_sarcastic": 0, "headline": "ám ảnh 'hung thần xa lộ’ trên tuyến đường huyết mạch ở bình dương", "article_link": "https://tienphong.vn/am-anh-hung-than-xa-lo-tren-tuyen-duong-huyet-mach-o-binh-duong-post1543685.tpo"}
+{"is_sarcastic": 0, "headline": "của hồi môn đám cưới trị giá 300 tỷ đồng ở long an gồm những gì?", "article_link": "https://tienphong.vn/cua-hoi-mon-dam-cuoi-tri-gia-300-ty-dong-o-long-an-gom-nhung-gi-post1543782.tpo"}
+{"is_sarcastic": 0, "headline": "thời tiết tphcm mưa dông rải rác", "article_link": "https://tienphong.vn/thoi-tiet-tphcm-mua-dong-rai-rac-post1543678.tpo"}
+{"is_sarcastic": 0, "headline": "loạt dự án ở hải dương dính sai phạm đất đai, bất động sản thanh khoản vẫn ảm đạm", "article_link": "https://tienphong.vn/loat-du-an-o-hai-duong-dinh-sai-pham-dat-dai-bat-dong-san-thanh-khoan-van-am-dam-post1543844.tpo"}
+{"is_sarcastic": 0, "headline": "hà nội lên tiếng về khu đô thị gần 2 thập kỷ không giải phóng xong mặt bằng", "article_link": "https://tienphong.vn/ha-noi-len-tieng-ve-khu-do-thi-gan-2-thap-ky-khong-giai-phong-xong-mat-bang-post1543639.tpo"}
+{"is_sarcastic": 0, "headline": "người nước ngoài mua nhà ở tại việt nam, chủ yếu tập trung ở hà nội, tp.hcm ", "article_link": "https://tienphong.vn/nguoi-nuoc-ngoai-mua-nha-o-tai-viet-nam-chu-yeu-tap-trung-o-ha-noi-tphcm-post1543904.tpo"}
+{"is_sarcastic": 0, "headline": "ngân hàng 'đại hạ giá' nhà phố cổ", "article_link": "https://tienphong.vn/ngan-hang-dai-ha-gia-nha-pho-co-post1543629.tpo"}
+{"is_sarcastic": 0, "headline": "nhà bằng thép tái chế dùng cây làm mặt tiền cản nắng nóng gây thương nhớ", "article_link": "https://tienphong.vn/nha-bang-thep-tai-che-dung-cay-lam-mat-tien-can-nang-nong-gay-thuong-nho-post1543369.tpo"}
+{"is_sarcastic": 0, "headline": "bộ xây dựng đề nghị rà soát loạt dự án nơxh bắc giang", "article_link": "https://tienphong.vn/bo-xay-dung-de-nghi-ra-soat-loat-du-an-noxh-bac-giang-post1543347.tpo"}
+{"is_sarcastic": 0, "headline": "cận cảnh khu phức hợp 18 tầng 'đắp chiếu' bên hồ giảng võ vào tầm ngắm kiểm tra", "article_link": "https://tienphong.vn/can-canh-khu-phuc-hop-18-tang-dap-chieu-ben-ho-giang-vo-vao-tam-ngam-kiem-tra-post1543133.tpo"}
+{"is_sarcastic": 0, "headline": "toyota innova thế hệ mới ra mắt tại philippines", "article_link": "https://tienphong.vn/toyota-innova-the-he-moi-ra-mat-tai-philippines-post1544108.tpo"}
+{"is_sarcastic": 0, "headline": "bmw triệu hồi xe điện ix do lỗi mất kiểm soát tốc độ", "article_link": "https://tienphong.vn/bmw-trieu-hoi-xe-dien-ix-do-loi-mat-kiem-soat-toc-do-post1543712.tpo"}
+{"is_sarcastic": 0, "headline": "chatgpt được áp dụng trên ô tô", "article_link": "https://tienphong.vn/chatgpt-duoc-ap-dung-tren-o-to-post1543487.tpo"}
+{"is_sarcastic": 0, "headline": "6 sự thật ít người biết khi sử dụng xe điện vào mùa hè", "article_link": "https://tienphong.vn/6-su-that-it-nguoi-biet-khi-su-dung-xe-dien-vao-mua-he-post1538959.tpo"}
+{"is_sarcastic": 0, "headline": "dàn xe gầm cao hút khách nhất tháng 5", "article_link": "https://tienphong.vn/dan-xe-gam-cao-hut-khach-nhat-thang-5-post1542894.tpo"}
+{"is_sarcastic": 0, "headline": "kia triệu hồi gần 100.000 xe sportage bị lỗi phanh", "article_link": "https://tienphong.vn/kia-trieu-hoi-gan-100000-xe-sportage-bi-loi-phanh-post1542874.tpo"}
+{"is_sarcastic": 0, "headline": "doanh số ô tô liên tục sụt giảm tại việt nam", "article_link": "https://tienphong.vn/doanh-so-o-to-lien-tuc-sut-giam-tai-viet-nam-post1542911.tpo"}
+{"is_sarcastic": 0, "headline": "kiến đạn sống ở đâu, vì sao cú đốt của nó khiến nạn nhân tê lạnh, đau thấu xương?", "article_link": "https://tienphong.vn/kien-dan-song-o-dau-vi-sao-cu-dot-cua-no-khien-nan-nhan-te-lanh-dau-thau-xuong-post1544047.tpo"}
+{"is_sarcastic": 0, "headline": "khi nào mới nên cấm xe máy vào nội đô?", "article_link": "https://tienphong.vn/khi-nao-moi-nen-cam-xe-may-vao-noi-do-post1544046.tpo"}
+{"is_sarcastic": 0, "headline": "nhận biết trẻ rối loạn tâm lí do thi cử", "article_link": "https://tienphong.vn/nhan-biet-tre-roi-loan-tam-li-do-thi-cu-post1544000.tpo"}
+{"is_sarcastic": 0, "headline": "màn 'múa nước sôi' điệu nghệ giúp cô chủ quán trà đá hà nội đắt khách", "article_link": "https://tienphong.vn/man-mua-nuoc-soi-dieu-nghe-giup-co-chu-quan-tra-da-ha-noi-dat-khach-post1544103.tpo"}
+{"is_sarcastic": 0, "headline": "hà nội yêu cầu kiểm tra, xử lý nghiêm các vấn đề dư luận bức xúc", "article_link": "https://tienphong.vn/ha-noi-yeu-cau-kiem-tra-xu-ly-nghiem-cac-van-de-du-luan-buc-xuc-post1543975.tpo"}
+{"is_sarcastic": 0, "headline": "hà nội tiếp tục thúc giục lập đội bắt chó thả rông", "article_link": "https://tienphong.vn/ha-noi-tiep-tuc-thuc-giuc-lap-doi-bat-cho-tha-rong-post1543524.tpo"}
+{"is_sarcastic": 0, "headline": "công an kết luận vụ cán bộ xã đóng vai chồng ‘nữ quái’ trốn truy nã ", "article_link": "https://tienphong.vn/cong-an-ket-luan-vu-can-bo-xa-dong-vai-chong-nu-quai-tron-truy-na-post1543675.tpo"}
+{"is_sarcastic": 0, "headline": "xử lý vụ án làm giả con dấu, tài liệu để chiếm đoạt nhà ", "article_link": "https://tienphong.vn/xu-ly-vu-an-lam-gia-con-dau-tai-lieu-de-chiem-doat-nha-post1543881.tpo"}
+{"is_sarcastic": 0, "headline": "loạt công trình dang dở vì chủ thầu vướng lao lý", "article_link": "https://tienphong.vn/loat-cong-trinh-dang-do-vi-chu-thau-vuong-lao-ly-post1543552.tpo"}
+{"is_sarcastic": 0, "headline": "thì thầm: đàn bà phung phí, đàn ông khờ dại tiếc nuối gì?", "article_link": "https://tienphong.vn/thi-tham-dan-ba-phung-phi-dan-ong-kho-dai-tiec-nuoi-gi-post1543756.tpo"}
+{"is_sarcastic": 0, "headline": "hình sự: gửi hình ‘nhạy cảm’ của người yêu cũ đến facebook bạn bè để tống tiền", "article_link": "https://tienphong.vn/hinh-su-gui-hinh-nhay-cam-cua-nguoi-yeu-cu-den-facebook-ban-be-de-tong-tien-post1543947.tpo"}
+{"is_sarcastic": 0, "headline": "hình sự: lý do nam thanh niên bị người tình đồng giới đốt nhà, đuổi chém giữa đêm khuya", "article_link": "https://tienphong.vn/hinh-su-ly-do-nam-thanh-nien-bi-nguoi-tinh-dong-gioi-dot-nha-duoi-chem-giua-dem-khuya-post1543750.tpo"}
+{"is_sarcastic": 0, "headline": "infographics: top 10 trường điểm chuẩn thấp nhất thi vào 10 ở hà nội những năm gần đây", "article_link": "https://tienphong.vn/infographics-top-10-truong-diem-chuan-thap-nhat-thi-vao-10-o-ha-noi-nhung-nam-gan-day-post1543242.tpo"}
+{"is_sarcastic": 0, "headline": "truy quét ‘thần tốc’ hơn 50 nghi phạm nổ súng tấn công trụ sở xã ở đắk lắk", "article_link": "https://tienphong.vn/truy-quet-than-toc-hon-50-nghi-pham-no-sung-tan-cong-tru-so-xa-o-dak-lak-post1543339.tpo"}
+{"is_sarcastic": 0, "headline": "[infographics] học phí các trường y công lập năm 2023-2024 như thế nào?", "article_link": "https://tienphong.vn/infographics-hoc-phi-cac-truong-y-cong-lap-nam-2023-2024-nhu-the-nao-post1542593.tpo"}
+{"is_sarcastic": 0, "headline": "60 năm 'măng non làm việc tốt - đất nước mãi nở hoa'", "article_link": "https://tienphong.vn/60-nam-mang-non-lam-viec-tot-dat-nuoc-mai-no-hoa-post1519938.tpo"}
+{"is_sarcastic": 0, "headline": "các ‘chiến binh’ it học với mô hình open lab & lĩnh vực khoa học máy tính ", "article_link": "https://tienphong.vn/cac-chien-binh-it-hoc-voi-mo-hinh-open-lab-linh-vuc-khoa-hoc-may-tinh-post1530449.tpo"}
+{"is_sarcastic": 0, "headline": "4 cầu vượt sông hồng chuẩn bị khởi công xây dựng ", "article_link": "https://tienphong.vn/4-cau-vuot-song-hong-chuan-bi-khoi-cong-xay-dung-post1510534.tpo"}
+{"is_sarcastic": 0, "headline": "bắt nghi phạm chích điện sát hại cháu ruột ở hải phòng ", "article_link": "https://tienphong.vn/bat-nghi-pham-chich-dien-sat-hai-chau-ruot-o-hai-phong-post1543884.tpo"}
+{"is_sarcastic": 0, "headline": "vụ cựu quan chức sở gd&đt quảng ninh nhận hối lộ: thêm hai người bị khởi tố khi điều tra bổ sung ", "article_link": "https://tienphong.vn/vu-cuu-quan-chuc-so-gddt-quang-ninh-nhan-hoi-lo-them-hai-nguoi-bi-khoi-to-khi-dieu-tra-bo-sung-post1543874.tpo"}       
+{"is_sarcastic": 0, "headline": "khởi tố tài xế ô tô chạy quá tốc độ, dùng bằng giả", "article_link": "https://tienphong.vn/khoi-to-tai-xe-o-to-chay-qua-toc-do-dung-bang-gia-post1543875.tpo"}
+{"is_sarcastic": 0, "headline": "mặt mộc của meghan ", "article_link": "https://tienphong.vn/mat-moc-cua-meghan-post1544155.tpo"}
+{"is_sarcastic": 0, "headline": "160 triệu người xem ảnh lâm chí linh mặc áo tắm", "article_link": "https://tienphong.vn/160-trieu-nguoi-xem-anh-lam-chi-linh-mac-ao-tam-post1543702.tpo"}
+{"is_sarcastic": 0, "headline": "diễn viên đóng lâm đại ngọc 'hồng lâu mộng 2023' bị chê ", "article_link": "https://tienphong.vn/dien-vien-dong-lam-dai-ngoc-hong-lau-mong-2023-bi-che-post1543688.tpo"}
+{"is_sarcastic": 0, "headline": "nắng nóng gay gắt quay trở lại hà nội trong bao lâu?", "article_link": "https://tienphong.vn/nang-nong-gay-gat-quay-tro-lai-ha-noi-trong-bao-lau-post1543267.tpo"}
+{"is_sarcastic": 0, "headline": "người hà nội đề phòng úng ngập do mưa lớn về đêm", "article_link": "https://tienphong.vn/nguoi-ha-noi-de-phong-ung-ngap-do-mua-lon-ve-dem-post1542641.tpo"}
+{"is_sarcastic": 0, "headline": "hà nội chạm đỉnh nắng nóng tháng 6 trước khi chuyển mưa", "article_link": "https://tienphong.vn/ha-noi-cham-dinh-nang-nong-thang-6-truoc-khi-chuyen-mua-post1542087.tpo"}
+{"is_sarcastic": 0, "headline": "harry và meghan sụp đổ", "article_link": "https://tienphong.vn/harry-va-meghan-sup-do-post1543671.tpo"}
+{"is_sarcastic": 0, "headline": "sự độc hại của khán giả việt", "article_link": "https://tienphong.vn/su-doc-hai-cua-khan-gia-viet-post1535239.tpo"}
+{"is_sarcastic": 0, "headline": "vụ 4 người mẫu việt giành chỗ, quát tháo ở buổi chụp hình chỉ là chiêu trò?", "article_link": "https://tienphong.vn/vu-4-nguoi-mau-viet-gianh-cho-quat-thao-o-buoi-chup-hinh-chi-la-chieu-tro-post1540542.tpo"}
+{"is_sarcastic": 0, "headline": "á hậu ngọc hằng: di tích lịch sử yên bái thêm hấp dẫn nhờ chuyển đổi số", "article_link": "https://tienphong.vn/a-hau-ngoc-hang-di-tich-lich-su-yen-bai-them-hap-dan-nho-chuyen-doi-so-post1541472.tpo"}
+{"is_sarcastic": 0, "headline": "hoa hậu quốc tế đội vương miện do nghệ nhân việt chế tác, đọ sắc ở indonesia ", "article_link": "https://tienphong.vn/hoa-hau-quoc-te-doi-vuong-mien-do-nghe-nhan-viet-che-tac-do-sac-o-indonesia-post1535700.tpo"}
+{"is_sarcastic": 0, "headline": "người đẹp phương anh: ‘chuyển đổi số sẽ thúc đẩy phát triển kinh tế, du lịch của yên bái’", "article_link": "https://tienphong.vn/nguoi-dep-phuong-anh-chuyen-doi-so-se-thuc-day-phat-trien-kinh-te-du-lich-cua-yen-bai-post1541234.tpo"}
+{"is_sarcastic": 0, "headline": "sex ngừa đãng trí tuổi già", "article_link": "https://tienphong.vn/sex-ngua-dang-tri-tuoi-gia-post1543376.tpo"} 
+{"is_sarcastic": 0, "headline": "phương pháp ‘thần thánh’ chỉ 3 phút giúp đàn ông tăng hưng phấn tình dục ", "article_link": "https://tienphong.vn/phuong-phap-than-thanh-chi-3-phut-giup-dan-ong-tang-hung-phan-tinh-duc-post1542694.tpo"}
+{"is_sarcastic": 0, "headline": "chồng bỗng thành soái ca khi nhà có cô giúp việc trẻ, xinh", "article_link": "https://tienphong.vn/chong-bong-thanh-soai-ca-khi-nha-co-co-giup-viec-tre-xinh-post1543482.tpo"}
+{"is_sarcastic": 0, "headline": "giám đốc và kế toán trung tâm y tế lĩnh án vì đòi phần trăm khi mua sắm vật tư", "article_link": "https://tienphong.vn/giam-doc-va-ke-toan-trung-tam-y-te-linh-an-vi-doi-phan-tram-khi-mua-sam-vat-tu-post1543628.tpo"}
+{"is_sarcastic": 0, "headline": "trang nemo bị tuyên phạt 9 tháng tù", "article_link": "https://tienphong.vn/trang-nemo-bi-tuyen-phat-9-thang-tu-post1543534.tpo"}
+{"is_sarcastic": 0, "headline": "trang nemo bị đề nghị mức án từ 6 đến 12 tháng tù giam", "article_link": "https://tienphong.vn/trang-nemo-bi-de-nghi-muc-an-tu-6-den-12-thang-tu-giam-post1543491.tpo"}
+{"is_sarcastic": 0, "headline": "clip con gái giúp cha cõng tủ lạnh gây xúc động ở trung quốc", "article_link": "https://tienphong.vn/clip-con-gai-giup-cha-cong-tu-lanh-gay-xuc-dong-o-trung-quoc-post1543466.tpo"}
+{"is_sarcastic": 0, "headline": "vợ chồng trẻ đi trăng mật hết 63 tỉnh thành", "article_link": "https://tienphong.vn/vo-chong-tre-di-trang-mat-het-63-tinh-thanh-post1543306.tpo"}
+{"is_sarcastic": 0, "headline": "độc lạ cổng cưới bằng vải thiều của cô dâu lục ngạn", "article_link": "https://tienphong.vn/doc-la-cong-cuoi-bang-vai-thieu-cua-co-dau-luc-ngan-post1543532.tpo"}
+{"is_sarcastic": 0, "headline": "học viện công nghệ bưu chính viễn thông công bố điểm chuẩn, cao nhất 28,1", "article_link": "https://tienphong.vn/hoc-vien-cong-nghe-buu-chinh-vien-thong-cong-bo-diem-chuan-cao-nhat-281-post1543488.tpo"}
+{"is_sarcastic": 0, "headline": "lớp học xuất sắc ở vùng núi lửa krông nô ", "article_link": "https://tienphong.vn/lop-hoc-xuat-sac-o-vung-nui-lua-krong-no-post1542372.tpo"}
+{"is_sarcastic": 0, "headline": "trường đại học quy nhơn xin lỗi vì 'không khéo léo' ứng xử trên fanpage", "article_link": "https://tienphong.vn/truong-dai-hoc-quy-nhon-xin-loi-vi-khong-kheo-leo-ung-xu-tren-fanpage-post1541443.tpo"}
+{"is_sarcastic": 0, "headline": "thiết kế ấn tượng, nhà phố thoáng mát và ngập ánh sáng ", "article_link": "https://tienphong.vn/thiet-ke-an-tuong-nha-pho-thoang-mat-va-ngap-anh-sang-post1542715.tpo"}
+{"is_sarcastic": 0, "headline": "mê mẩn với mẫu nhà mang cả bầu trời vào không gian nhờ dùng lam thép thay mái", "article_link": "https://tienphong.vn/me-man-voi-mau-nha-mang-ca-bau-troi-vao-khong-gian-nho-dung-lam-thep-thay-mai-post1542165.tpo"}
+{"is_sarcastic": 0, "headline": "biệt thự 2 tầng mang đậm phong cách á đông ", "article_link": "https://tienphong.vn/biet-thu-2-tang-mang-dam-phong-cach-a-dong-post1541688.tpo"}
+{"is_sarcastic": 0, "headline": "nhận định indonesia vs argentina, 19h30 ngày 19/6: cơ hội để đời ", "article_link": "https://tienphong.vn/nhan-dinh-indonesia-vs-argentina-19h30-ngay-196-co-hoi-de-doi-post1544135.tpo"}
+{"is_sarcastic": 0, "headline": "hlv shin tae-yong hành động khác thường trước trận đấu với argentina", "article_link": "https://tienphong.vn/hlv-shin-tae-yong-hanh-dong-khac-thuong-truoc-tran-dau-voi-argentina-post1544065.tpo"}
+{"is_sarcastic": 0, "headline": "nhận định anh vs bắc macedonia, 01h45 ngày 20/6: không thể ngăn cản", "article_link": "https://tienphong.vn/nhan-dinh-anh-vs-bac-macedonia-01h45-ngay-206-khong-the-ngan-can-post1544157.tpo"}
+{"is_sarcastic": 0, "headline": "xem hạm đội thái bình dương của nga phô diễn hỏa lực ở biển nhật bản", "article_link": "https://tienphong.vn/xem-ham-doi-thai-binh-duong-cua-nga-pho-dien-hoa-luc-o-bien-nhat-ban-post1542563.tpo"}
+{"is_sarcastic": 0, "headline": "xem hàng trăm lính dù nga đổ bộ từ trên không", "article_link": "https://tienphong.vn/xem-hang-tram-linh-du-nga-do-bo-tu-tren-khong-post1542413.tpo"}
+{"is_sarcastic": 0, "headline": "sức mạnh tên lửa siêu thanh có thể xuyên thủng mọi lá chắn phòng thủ của iran", "article_link": "https://tienphong.vn/suc-manh-ten-lua-sieu-thanh-co-the-xuyen-thung-moi-la-chan-phong-thu-cua-iran-post1540839.tpo"}
+{"is_sarcastic": 0, "headline": "khoe niềm vui mới tại đạp gió 2023, stylist của chi pu vì sao lại bị khán giả phản ứng?", "article_link": "https://tienphong.vn/khoe-niem-vui-moi-tai-dap-gio-2023-stylist-cua-chi-pu-vi-sao-lai-bi-khan-gia-phan-ung-post1544146.tpo"}
+{"is_sarcastic": 0, "headline": "cầu toàn như chi pu: trang phục tập luyện cũng phải tùy biến theo ca khúc biểu diễn", "article_link": "https://tienphong.vn/cau-toan-nhu-chi-pu-trang-phuc-tap-luyen-cung-phai-tuy-bien-theo-ca-khuc-bieu-dien-post1544137.tpo"}
+{"is_sarcastic": 0, "headline": "h’hen niê khoe sắc cùng tiểu vy trong show diễn của ntk hoàng hải tại venice", "article_link": "https://tienphong.vn/hhen-nie-khoe-sac-cung-tieu-vy-trong-show-dien-cua-ntk-hoang-hai-tai-venice-post1544122.tpo"}
+{"is_sarcastic": 0, "headline": "hàng trăm sinh viên lần đầu hát quốc ca ở trường sa", "article_link": "https://tienphong.vn/hang-tram-sinh-vien-lan-dau-hat-quoc-ca-o-truong-sa-post1544139.tpo"}
+{"is_sarcastic": 0, "headline": "hành trình vượt qua nỗi sợ hãi, trở thành phiên bản hoàn hảo nhất của chính mình ", "article_link": "https://tienphong.vn/hanh-trinh-vuot-qua-noi-so-hai-tro-thanh-phien-ban-hoan-hao-nhat-cua-chinh-minh-post1544008.tpo"}
+{"is_sarcastic": 0, "headline": "nữ sinh lào cai đăng quang ngôi vị hoa khôi cuộc thi sinh viên thanh lịch - neu glamour 2023", "article_link": "https://tienphong.vn/nu-sinh-lao-cai-dang-quang-ngoi-vi-hoa-khoi-cuoc-thi-sinh-vien-thanh-lich-neu-glamour-2023-post1543990.tpo"}
+{"is_sarcastic": 0, "headline": "bộ công an trao kinh phí hỗ trợ xây dựng 1.200 căn nhà tặng các hộ nghèo ở sóc trăng", "article_link": "https://tienphong.vn/bo-cong-an-trao-kinh-phi-ho-tro-xay-dung-1200-can-nha-tang-cac-ho-ngheo-o-soc-trang-post1543977.tpo"}
+{"is_sarcastic": 0, "headline": "những khoảnh khắc đẹp tại khóa tu 'về nguồn' chùa bái đính năm 2023", "article_link": "https://tienphong.vn/nhung-khoanh-khac-dep-tai-khoa-tu-ve-nguon-chua-bai-dinh-nam-2023-post1543944.tpo"}
+{"is_sarcastic": 0, "headline": "kỷ luật 15 tổ chức đảng, gần 80 cán bộ, công chức sai phạm tham nhũng, tiêu cực ", "article_link": "https://tienphong.vn/ky-luat-15-to-chuc-dang-gan-80-can-bo-cong-chuc-sai-pham-tham-nhung-tieu-cuc-post1544150.tpo"}
+{"is_sarcastic": 0, "headline": "vì sao quy mô dự án đấu thầu sử dụng đất giảm 20 lần?", "article_link": "https://tienphong.vn/vi-sao-quy-mo-du-an-dau-thau-su-dung-dat-giam-20-lan-post1544165.tpo"}
+{"is_sarcastic": 0, "headline": "cập nhật: hơn 30 tỉnh, thành công bố điểm thi lớp 10 năm 2023", "article_link": "https://tienphong.vn/cap-nhat-hon-30-tinh-thanh-cong-bo-diem-thi-lop-10-nam-2023-post1544121.tpo"}
+{"is_sarcastic": 0, "headline": "quang hải, văn toàn, công phượng sẽ cùng ra sân? và đây là câu trả lời của hlv troussier", "article_link": "https://tienphong.vn/quang-hai-van-toan-cong-phuong-se-cung-ra-san-va-day-la-cau-tra-loi-cua-hlv-troussier-post1544191.tpo"}
+{"is_sarcastic": 0, "headline": "hlv hector cuper, người 2 lần về nhì champions league, nêu tên 3 cầu thủ việt nam mà ông ấn tượng", "article_link": "https://tienphong.vn/hlv-hector-cuper-nguoi-2-lan-ve-nhi-champions-league-neu-ten-3-cau-thu-viet-nam-ma-ong-an-tuong-post1544181.tpo"}      
+{"is_sarcastic": 0, "headline": "nga bác tin quân đội ukraine giành lại ngôi làng gần mặt trận zaporozhye", "article_link": "https://tienphong.vn/nga-bac-tin-quan-doi-ukraine-gianh-lai-ngoi-lang-gan-mat-tran-zaporozhye-post1544169.tpo"}
+{"is_sarcastic": 0, "headline": "ba lan lên tiếng về tin đồn đoàn cận vệ của tổng thống nam phi bị chặn lại vì mang theo vũ khí", "article_link": "https://tienphong.vn/ba-lan-len-tieng-ve-tin-don-doan-can-ve-cua-tong-thong-nam-phi-bi-chan-lai-vi-mang-theo-vu-khi-post1544134.tpo"}
+{"is_sarcastic": 0, "headline": "thụy điển tính đến kịch bản xung đột với nga", "article_link": "https://tienphong.vn/thuy-dien-tinh-den-kich-ban-xung-dot-voi-nga-post1544057.tpo"}
+{"is_sarcastic": 0, "headline": "khuyến khích, bảo vệ cán bộ dám nghĩ, dám làm: có nên ban hành nghị quyết? ", "article_link": "https://tienphong.vn/khuyen-khich-bao-ve-can-bo-dam-nghi-dam-lam-co-nen-ban-hanh-nghi-quyet-post1543997.tpo"}
+{"is_sarcastic": 0, "headline": "đề nghị nhà ở xã hội chỉ cho thuê, không mua bán", "article_link": "https://tienphong.vn/de-nghi-nha-o-xa-hoi-chi-cho-thue-khong-mua-ban-post1544079.tpo"}
+{"is_sarcastic": 0, "headline": "toàn cảnh vụ gia đình kiện tranh chấp tài sản nsưt vũ linh để lại", "article_link": "https://tienphong.vn/toan-canh-vu-gia-dinh-kien-tranh-chap-tai-san-nsut-vu-linh-de-lai-post1543917.tpo"}
+{"is_sarcastic": 0, "headline": "đề xuất cơ chế sử dụng nguồn cải cách chính sách tiền lương chưa sử dụng", "article_link": "https://tienphong.vn/de-xuat-co-che-su-dung-nguon-cai-cach-chinh-sach-tien-luong-chua-su-dung-post1544174.tpo"}
+{"is_sarcastic": 0, "headline": "bộ trưởng xây dựng nói lý do bỏ quy định thời hạn sở hữu chung cư", "article_link": "https://tienphong.vn/bo-truong-xay-dung-noi-ly-do-bo-quy-dinh-thoi-han-so-huu-chung-cu-post1544163.tpo"}
+{"is_sarcastic": 0, "headline": "đề xuất luật hoá 'nhà ở di động' phù hợp với giới trẻ", "article_link": "https://tienphong.vn/de-xuat-luat-hoa-nha-o-di-dong-phu-hop-voi-gioi-tre-post1544104.tpo"}
+{"is_sarcastic": 0, "headline": "miền bắc sắp đón đợt mưa dông rất lớn", "article_link": "https://tienphong.vn/mien-bac-sap-don-dot-mua-dong-rat-lon-post1544207.tpo"}
+{"is_sarcastic": 0, "headline": "tin nhanh 12h: giá vàng sẽ tăng mạnh; nhiều trẻ lo âu và trầm cảm do thi cử", "article_link": "https://tienphong.vn/tin-nhanh-12h-gia-vang-se-tang-manh-nhieu-tre-lo-au-va-tram-cam-do-thi-cu-post1544129.tpo"}
+{"is_sarcastic": 0, "headline": "toàn cảnh cây cầu nối hai tỉnh phú thọ - vĩnh phúc trị giá 540 tỷ đồng sắp khánh thành", "article_link": "https://tienphong.vn/toan-canh-cay-cau-noi-hai-tinh-phu-tho-vinh-phuc-tri-gia-540-ty-dong-sap-khanh-thanh-post1544077.tpo"}
+{"is_sarcastic": 0, "headline": "tháo rào trên đường kim mã sau gần 3 năm thi công ga ngầm đường sắt nhổn - ga hà nội", "article_link": "https://tienphong.vn/thao-rao-tren-duong-kim-ma-sau-gan-3-nam-thi-cong-ga-ngam-duong-sat-nhon-ga-ha-noi-post1544044.tpo"}
+{"is_sarcastic": 0, "headline": "hà nội đón ngày đầu tuần nắng nóng gay gắt", "article_link": "https://tienphong.vn/ha-noi-don-ngay-dau-tuan-nang-nong-gay-gat-post1543813.tpo"}
+{"is_sarcastic": 0, "headline": "về ngôi làng ở nghệ an, trời càng nắng dân càng... phấn khởi", "article_link": "https://tienphong.vn/ve-ngoi-lang-o-nghe-an-troi-cang-nang-dan-cang-phan-khoi-post1543847.tpo"}
+{"is_sarcastic": 0, "headline": "giật mình với giá vải thiều ở tphcm", "article_link": "https://tienphong.vn/giat-minh-voi-gia-vai-thieu-o-tphcm-post1543853.tpo"}
+{"is_sarcastic": 0, "headline": "bi kịch của siêu anh hùng có tốc độ vượt cả ánh sáng", "article_link": "https://tienphong.vn/bi-kich-cua-sieu-anh-hung-co-toc-do-vuot-ca-anh-sang-post1543901.tpo"}
+{"is_sarcastic": 0, "headline": "rạng rỡ nhan sắc 15 thí sinh hoa khôi ngoại giao ", "article_link": "https://tienphong.vn/rang-ro-nhan-sac-15-thi-sinh-hoa-khoi-ngoai-giao-post1543822.tpo"}
+{"is_sarcastic": 0, "headline": "toàn cảnh dự án nhà ở xã hội đạt kỷ lục 26 lần mở bán vẫn ế", "article_link": "https://tienphong.vn/toan-canh-du-an-nha-o-xa-hoi-dat-ky-luc-26-lan-mo-ban-van-e-post1543416.tpo"}
+{"is_sarcastic": 0, "headline": "nữ ca sĩ trung quốc mặc gợi cảm, ăn nem cuốn, phở bò ở hội an", "article_link": "https://tienphong.vn/nu-ca-si-trung-quoc-mac-goi-cam-an-nem-cuon-pho-bo-o-hoi-an-post1543848.tpo"}
+{"is_sarcastic": 0, "headline": "cận cảnh quy trình ướp trà sen đệ nhất trà hà thành, giá cả chục triệu đồng/kg", "article_link": "https://tienphong.vn/can-canh-quy-trinh-uop-tra-sen-de-nhat-tra-ha-thanh-gia-ca-chuc-trieu-dongkg-post1543620.tpo"}
+{"is_sarcastic": 0, "headline": "bản rap về người cha khiến giám khảo rap việt bật khóc", "article_link": "https://tienphong.vn/ban-rap-ve-nguoi-cha-khien-giam-khao-rap-viet-bat-khoc-post1543863.tpo"}
+{"is_sarcastic": 0, "headline": "nga tuyên bố tấn công trung tâm chỉ huy của quân đội ukraine", "article_link": "https://tienphong.vn/nga-tuyen-bo-tan-cong-trung-tam-chi-huy-cua-quan-doi-ukraine-post1543798.tpo"}
+{"is_sarcastic": 0, "headline": "quốc hội chốt quy định trần giá vé máy bay", "article_link": "https://tienphong.vn/quoc-hoi-chot-quy-dinh-tran-gia-ve-may-bay-post1544192.tpo"}
+{"is_sarcastic": 0, "headline": "hà nội dự kiến đặt tên đường, phố theo tên đảo ở trường sa", "article_link": "https://tienphong.vn/ha-noi-du-kien-dat-ten-duong-pho-theo-ten-dao-o-truong-sa-post1544186.tpo"}
+{"is_sarcastic": 0, "headline": "hơn 99% cử tri đông anh muốn huyện lên quận", "article_link": "https://tienphong.vn/hon-99-cu-tri-dong-anh-muon-huyen-len-quan-post1544198.tpo"}
+{"is_sarcastic": 0, "headline": "kỷ luật nhiều cán bộ, đảng viên vi phạm ở đắk nông", "article_link": "https://tienphong.vn/ky-luat-nhieu-can-bo-dang-vien-vi-pham-o-dak-nong-post1544151.tpo"}
+{"is_sarcastic": 0, "headline": "nhiều người mắc bẫy tội phạm lừa đảo qua mạng ", "article_link": "https://tienphong.vn/nhieu-nguoi-mac-bay-toi-pham-lua-dao-qua-mang-post1544154.tpo"}
+{"is_sarcastic": 0, "headline": "jennie (blackpink) tiếp tục gây sốc vì hở bạo và vũ đạo gợi dục", "article_link": "https://tienphong.vn/jennie-blackpink-tiep-tuc-gay-soc-vi-ho-bao-va-vu-dao-goi-duc-post1544145.tpo"}
+{"is_sarcastic": 0, "headline": "điền (tô dũng) cứu bố con lưu (nsưt hoàng hải)?", "article_link": "https://tienphong.vn/dien-to-dung-cuu-bo-con-luu-nsut-hoang-hai-post1544036.tpo"}
+{"is_sarcastic": 0, "headline": "lâm tâm như nhắc lại nụ hôn thô bạo và tồi tệ của châu kiệt ", "article_link": "https://tienphong.vn/lam-tam-nhu-nhac-lai-nu-hon-tho-bao-va-toi-te-cua-chau-kiet-post1544143.tpo"}
+{"is_sarcastic": 0, "headline": "ẩn ý của vua charles khi đăng ảnh harry", "article_link": "https://tienphong.vn/an-y-cua-vua-charles-khi-dang-anh-harry-post1544117.tpo"}
+{"is_sarcastic": 0, "headline": "ukraine tuyên bố giành được tám khu định cư", "article_link": "https://tienphong.vn/ukraine-tuyen-bo-gianh-duoc-tam-khu-dinh-cu-post1544196.tpo"}
+{"is_sarcastic": 0, "headline": "thiếu nữ 16 tuổi bất ngờ bị nam thanh niên xông vào nhà đánh đập, lột đồ", "article_link": "https://tienphong.vn/thieu-nu-16-tuoi-bat-ngo-bi-nam-thanh-nien-xong-vao-nha-danh-dap-lot-do-post1544158.tpo"}
+{"is_sarcastic": 0, "headline": "chàng trai hà nội bỏ việc văn phòng về nuôi 'bộ sưu tập' vẹt cảnh giá trị ", "article_link": "https://tienphong.vn/chang-trai-ha-noi-bo-viec-van-phong-ve-nuoi-bo-suu-tap-vet-canh-gia-tri-post1544127.tpo"}
+{"is_sarcastic": 0, "headline": "phản ứng của kẻ lừa đảo khi gọi video call đụng đúng công an ", "article_link": "https://tienphong.vn/phan-ung-cua-ke-lua-dao-khi-goi-video-call-dung-dung-cong-an-post1544059.tpo"}
+{"is_sarcastic": 0, "headline": "những điều cần chú ý để phòng tránh rủi ro khi mua đất phân lô bán nền? ", "article_link": "https://tienphong.vn/nhung-dieu-can-chu-y-de-phong-tranh-rui-ro-khi-mua-dat-phan-lo-ban-nen-post1543841.tpo"}
+{"is_sarcastic": 0, "headline": "dàn sao hàn gây náo loạn hội an, ăn bánh xèo và uống bia vỉa hè", "article_link": "https://tienphong.vn/dan-sao-han-gay-nao-loan-hoi-an-an-banh-xeo-va-uong-bia-via-he-post1544190.tpo"}
+{"is_sarcastic": 0, "headline": "tin tức hôm nay ", "article_link": "https://tienphong.vn/tin-tuc-hom-nay-post1543790.tpo"}
+{"is_sarcastic": 0, "headline": "đậu vớt ", "article_link": "https://tienphong.vn/dau-vot-post1543580.tpo"}
+{"is_sarcastic": 0, "headline": "thừa giấy vẽ voi", "article_link": "https://tienphong.vn/thua-giay-ve-voi-post1543293.tpo"}
+{"is_sarcastic": 0, "headline": "nghịch lý", "article_link": "https://tienphong.vn/nghich-ly-post1542368.tpo"}
+{"is_sarcastic": 0, "headline": "chậm như… điện", "article_link": "https://tienphong.vn/cham-nhu-dien-post1541869.tpo"}
+{"is_sarcastic": 0, "headline": "tổng bí thư chủ trì hội nghị sơ kết của ban chỉ đạo chống tham nhũng cấp tỉnh ", "article_link": "https://tienphong.vn/tong-bi-thu-chu-tri-hoi-nghi-so-ket-cua-ban-chi-dao-chong-tham-nhung-cap-tinh-post1544125.tpo"}
+{"is_sarcastic": 0, "headline": "bị xe ben kéo lê trên đường, người đàn ông chết thảm", "article_link": "https://tienphong.vn/bi-xe-ben-keo-le-tren-duong-nguoi-dan-ong-chet-tham-post1544185.tpo"}
+{"is_sarcastic": 0, "headline": "[hình ảnh] tổng bí thư chủ trì hội nghị sơ kết hoạt động của bcđ về phòng, chống tham nhũng cấp tỉnh", "article_link": "https://tienphong.vn/hinh-anh-tong-bi-thu-chu-tri-hoi-nghi-so-ket-hoat-dong-cua-bcd-ve-phong-chong-tham-nhung-cap-tinh-post1544094.tpo"} 
+{"is_sarcastic": 0, "headline": "camera ghi cảnh người phụ nữ bị giật túi xách trong 1 giây ở tphcm ", "article_link": "https://tienphong.vn/camera-ghi-canh-nguoi-phu-nu-bi-giat-tui-xach-trong-1-giay-o-tphcm-post1544128.tpo"}
+{"is_sarcastic": 0, "headline": "bình dương khởi công dự án vành đai 3 tphcm khi nào?", "article_link": "https://tienphong.vn/binh-duong-khoi-cong-du-an-vanh-dai-3-tphcm-khi-nao-post1544130.tpo"}
+{"is_sarcastic": 0, "headline": "phó bí thư thành đoàn tphcm: 'báo tiền phong có mặt trên từng cây số'", "article_link": "https://tienphong.vn/pho-bi-thu-thanh-doan-tphcm-bao-tien-phong-co-mat-tren-tung-cay-so-post1544131.tpo"}
+{"is_sarcastic": 0, "headline": "lâm đồng chỉ đạo khẩn sau 2 vụ sạt lở đất khiến nhiều người thương vong", "article_link": "https://tienphong.vn/lam-dong-chi-dao-khan-sau-2-vu-sat-lo-dat-khien-nhieu-nguoi-thuong-vong-post1544088.tpo"}
+{"is_sarcastic": 0, "headline": "ứng viên duy nhất được đề cử vào hội đồng quản trị novaland", "article_link": "https://tienphong.vn/ung-vien-duy-nhat-duoc-de-cu-vao-hoi-dong-quan-tri-novaland-post1544178.tpo"}
+{"is_sarcastic": 0, "headline": "mức lỗ của tập đoàn hòa bình tăng hơn 2 lần sau kiểm toán ", "article_link": "https://tienphong.vn/muc-lo-cua-tap-doan-hoa-binh-tang-hon-2-lan-sau-kiem-toan-post1544120.tpo"}
+{"is_sarcastic": 0, "headline": "bộ nội vụ không đồng tình chuyển a0 thành đơn vị sự nghiệp công lập ", "article_link": "https://tienphong.vn/bo-noi-vu-khong-dong-tinh-chuyen-a0-thanh-don-vi-su-nghiep-cong-lap-post1544118.tpo"}
+{"is_sarcastic": 0, "headline": "đồng loạt giảm lãi suất, có ngân hàng chỉ còn 3,4%/năm", "article_link": "https://tienphong.vn/dong-loat-giam-lai-suat-co-ngan-hang-chi-con-34nam-post1544109.tpo"}
+{"is_sarcastic": 0, "headline": "'thủ phủ' mới của dòng vốn đầu tư nước ngoài", "article_link": "https://tienphong.vn/thu-phu-moi-cua-dong-von-dau-tu-nuoc-ngoai-post1544070.tpo"}
+{"is_sarcastic": 0, "headline": "chậm chuyến ở sân bay tân sơn nhất gia tăng", "article_link": "https://tienphong.vn/cham-chuyen-o-san-bay-tan-son-nhat-gia-tang-post1544090.tpo"}
+{"is_sarcastic": 0, "headline": "giá vàng tăng mạnh trong tuần này?", "article_link": "https://tienphong.vn/gia-vang-tang-manh-trong-tuan-nay-post1544054.tpo"}
+{"is_sarcastic": 0, "headline": "cảnh báo thủ đoạn giả danh công an kích hoạt tài khoản định danh điện tử", "article_link": "https://tienphong.vn/canh-bao-thu-doan-gia-danh-cong-an-kich-hoat-tai-khoan-dinh-danh-dien-tu-post1544177.tpo"}
+{"is_sarcastic": 0, "headline": "gã ma cô bị bắt khi đang chở 'đào' đi tiếp khách", "article_link": "https://tienphong.vn/ga-ma-co-bi-bat-khi-dang-cho-dao-di-tiep-khach-post1544086.tpo"}
+{"is_sarcastic": 0, "headline": "vụ nam sinh nghi bị đánh nhầm dẫn đến tử vong: lời kể đau xót của người bố", "article_link": "https://tienphong.vn/vu-nam-sinh-nghi-bi-danh-nham-dan-den-tu-vong-loi-ke-dau-xot-cua-nguoi-bo-post1544140.tpo"}
+{"is_sarcastic": 0, "headline": "mâu thuẫn ở quán karaoke, đối tượng dùng dao đâm chết người", "article_link": "https://tienphong.vn/mau-thuan-o-quan-karaoke-doi-tuong-dung-dao-dam-chet-nguoi-post1544153.tpo"}
+{"is_sarcastic": 0, "headline": "vụ tố 'chạy án' 2,7 tỉ đồng ở quảng bình: kiểm sát viên 'tư vấn' lời khai cho người môi giới?", "article_link": "https://tienphong.vn/vu-to-chay-an-27-ti-dong-o-quang-binh-kiem-sat-vien-tu-van-loi-khai-cho-nguoi-moi-gioi-post1543927.tpo"}
+{"is_sarcastic": 0, "headline": "bắt quả tang 17 dân chơi ‘bay lắc’ trong quán karaoke", "article_link": "https://tienphong.vn/bat-qua-tang-17-dan-choi-bay-lac-trong-quan-karaoke-post1544111.tpo"}
+{"is_sarcastic": 0, "headline": "bản tin hình sự: giở thủ đoạn 'xin đểu' bạn gái cũ 15 triệu đồng sau khi chia tay ", "article_link": "https://tienphong.vn/ban-tin-hinh-su-gio-thu-doan-xin-deu-ban-gai-cu-15-trieu-dong-sau-khi-chia-tay-post1543928.tpo"}
+{"is_sarcastic": 0, "headline": "iran sắp ký thỏa thuận với liên minh kinh tế do nga dẫn dắt", "article_link": "https://tienphong.vn/iran-sap-ky-thoa-thuan-voi-lien-minh-kinh-te-do-nga-dan-dat-post1544138.tpo"}
+{"is_sarcastic": 0, "headline": "tình báo anh đánh giá cả nga và ukraine đều hứng tổn thất lớn trong chiến dịch phản công", "article_link": "https://tienphong.vn/tinh-bao-anh-danh-gia-ca-nga-va-ukraine-deu-hung-ton-that-lon-trong-chien-dich-phan-cong-post1544147.tpo"}
+{"is_sarcastic": 0, "headline": "ngoại trưởng mỹ - trung họp suốt 5 tiếng rưỡi đồng hồ", "article_link": "https://tienphong.vn/ngoai-truong-my-trung-hop-suot-5-tieng-ruoi-dong-ho-post1544053.tpo"}
+{"is_sarcastic": 0, "headline": "nga nói quân đội ukraine mất 20 xe tăng trong một ngày", "article_link": "https://tienphong.vn/nga-noi-quan-doi-ukraine-mat-20-xe-tang-trong-mot-ngay-post1544089.tpo"}
+{"is_sarcastic": 0, "headline": "triều tiên thừa nhận ‘thất bại nghiêm trọng’ trong chương trình vệ tinh quân sự", "article_link": "https://tienphong.vn/trieu-tien-thua-nhan-that-bai-nghiem-trong-trong-chuong-trinh-ve-tinh-quan-su-post1544061.tpo"}
+{"is_sarcastic": 0, "headline": "mỹ: liên tiếp xả súng ở chicago, 40 người thương vong", "article_link": "https://tienphong.vn/my-lien-tiep-xa-sung-o-chicago-40-nguoi-thuong-vong-post1544049.tpo"}
+{"is_sarcastic": 0, "headline": "thế giới 24h: sang ba lan, nhóm an ninh của tổng thống nam phi mang theo 12 thùng vũ khí", "article_link": "https://tienphong.vn/the-gioi-24h-sang-ba-lan-nhom-an-ninh-cua-tong-thong-nam-phi-mang-theo-12-thung-vu-khi-post1544050.tpo"}
+{"is_sarcastic": 0, "headline": "cuộc trò chuyện hiếm hoi và những “bí ẩn” của vua cà phê trung nguyên đặng lê nguyên vũ", "article_link": "https://tienphong.vn/cuoc-tro-chuyen-hiem-hoi-va-nhung-bi-an-cua-vua-ca-phe-trung-nguyen-dang-le-nguyen-vu-post1543426.tpo"}
+{"is_sarcastic": 0, "headline": "công thức thành công của chuỗi quán cà phê trung nguyên legend", "article_link": "https://tienphong.vn/cong-thuc-thanh-cong-cua-chuoi-quan-ca-phe-trung-nguyen-legend-post1543730.tpo"}
+{"is_sarcastic": 0, "headline": "từ trung nguyên đến trung nguyên legend – duy nhất một tầm nhìn tập đoàn cà phê toàn cầu ", "article_link": "https://tienphong.vn/tu-trung-nguyen-den-trung-nguyen-legend-duy-nhat-mot-tam-nhin-tap-doan-ca-phe-toan-cau-post1543302.tpo"}
+{"is_sarcastic": 0, "headline": "chuyện tình đẹp của cặp đôi cán bộ đoàn", "article_link": "https://tienphong.vn/chuyen-tinh-dep-cua-cap-doi-can-bo-doan-post1543938.tpo"}
+{"is_sarcastic": 0, "headline": "tuổi trẻ buôn hồ số hóa di tích lịch sử ", "article_link": "https://tienphong.vn/tuoi-tre-buon-ho-so-hoa-di-tich-lich-su-post1544007.tpo"}
+{"is_sarcastic": 0, "headline": "truyền thông nâng cao hiểu biết về sức khỏe sinh sản cho sinh viên", "article_link": "https://tienphong.vn/truyen-thong-nang-cao-hieu-biet-ve-suc-khoe-sinh-san-cho-sinh-vien-post1543925.tpo"}
+{"is_sarcastic": 0, "headline": "'áo xanh' đắk lắk đến từng nhà phát tờ rơi, tuyên truyền pháp luật", "article_link": "https://tienphong.vn/ao-xanh-dak-lak-den-tung-nha-phat-to-roi-tuyen-truyen-phap-luat-post1543926.tpo"}
+{"is_sarcastic": 0, "headline": "gian nan vượt 'cửa ải' thử việc ", "article_link": "https://tienphong.vn/gian-nan-vuot-cua-ai-thu-viec-post1544005.tpo"}
+{"is_sarcastic": 0, "headline": "những ngày 'nước rút' để vượt vũ môn", "article_link": "https://tienphong.vn/nhung-ngay-nuoc-rut-de-vuot-vu-mon-post1544184.tpo"}
+{"is_sarcastic": 0, "headline": "ngày mai công bố điểm thi vào lớp 10 ở tphcm: bất ngờ nào xảy ra?", "article_link": "https://tienphong.vn/ngay-mai-cong-bo-diem-thi-vao-lop-10-o-tphcm-bat-ngo-nao-xay-ra-post1544092.tpo"}
+{"is_sarcastic": 0, "headline": "pháp vinh danh 2 nhà khoa học việt nam ", "article_link": "https://tienphong.vn/phap-vinh-danh-2-nha-khoa-hoc-viet-nam-post1544002.tpo"}
+{"is_sarcastic": 0, "headline": "điểm nhấn giáo dục: thông tin mới nhất vụ lộ đề lớp 10 tại kon tum", "article_link": "https://tienphong.vn/diem-nhan-giao-duc-thong-tin-moi-nhat-vu-lo-de-lop-10-tai-kon-tum-post1543837.tpo"}
+{"is_sarcastic": 0, "headline": "văn bằng nước ngoài nào đủ điều kiện để được công nhận ở việt nam?", "article_link": "https://tienphong.vn/van-bang-nuoc-ngoai-nao-du-dieu-kien-de-duoc-cong-nhan-o-viet-nam-post1543577.tpo"}
+{"is_sarcastic": 0, "headline": "'phi công trẻ' và cái giá quá đắt cho cuộc tình bán mua với quý bà hơn 20 tuổi", "article_link": "https://tienphong.vn/phi-cong-tre-va-cai-gia-qua-dat-cho-cuoc-tinh-ban-mua-voi-quy-ba-hon-20-tuoi-post1544205.tpo"}
+{"is_sarcastic": 0, "headline": "tphcm: người đàn ông bị sắt đâm xuyên trán, cắm thẳng vào hộp sọ", "article_link": "https://tienphong.vn/tphcm-nguoi-dan-ong-bi-sat-dam-xuyen-tran-cam-thang-vao-hop-so-post1544114.tpo"}
+{"is_sarcastic": 0, "headline": "thích ăn xôi buổi sáng đến mấy thì những người này cũng nên từ bỏ kẻo rước thêm bệnh vào thân", "article_link": 
+"https://tienphong.vn/thich-an-xoi-buoi-sang-den-may-thi-nhung-nguoi-nay-cung-nen-tu-bo-keo-ruoc-them-benh-vao-than-post1544051.tpo"}
+{"is_sarcastic": 0, "headline": "nước mắt ân hận của 'trai bao' sau cuộc tình lắm tiền nhiều của với quý bà hơn 20 tuổi", "article_link": "https://tienphong.vn/nuoc-mat-an-han-cua-trai-bao-sau-cuoc-tinh-lam-tien-nhieu-cua-voi-quy-ba-hon-20-tuoi-post1544063.tpo"}
+{"is_sarcastic": 0, "headline": "sex sau mãn kinh: 5 thay đổi bạn có thể nhận ra", "article_link": "https://tienphong.vn/sex-sau-man-kinh-5-thay-doi-ban-co-the-nhan-ra-post1544166.tpo"}
+{"is_sarcastic": 0, "headline": "cận cảnh đòn chỏ cực mạnh khiến ‘người sắt’ nikolas motta bất tỉnh", "article_link": "https://tienphong.vn/can-canh-don-cho-cuc-manh-khien-nguoi-sat-nikolas-motta-bat-tinh-post1544197.tpo"}
+{"is_sarcastic": 0, "headline": "độc đáo món bún bò nam bộ 'rực cháy' hút thực khách hà thành đến thưởng thức", "article_link": "https://tienphong.vn/doc-dao-mon-bun-bo-nam-bo-ruc-chay-hut-thuc-khach-ha-thanh-den-thuong-thuc-post1543118.tpo"}
+{"is_sarcastic": 0, "headline": "tiêu điểm: thông tin về 2 bệnh viện nghìn tỷ bị bỏ hoang 9 năm; kinh hoàng con số 303", "article_link": "https://tienphong.vn/tieu-diem-thong-tin-ve-2-benh-vien-nghin-ty-bi-bo-hoang-9-nam-kinh-hoang-con-so-303-post1543519.tpo"}
+{"is_sarcastic": 0, "headline": "top thực phẩm 'vàng' cho sĩ tử mùa thi", "article_link": "https://tienphong.vn/top-thuc-pham-vang-cho-si-tu-mua-thi-post1543377.tpo"}
+{"is_sarcastic": 0, "headline": "ngắm nhìn trận địa pháo hoa quốc tế đà nẵng 2023 của hai đội từng 'xưng vương' australia, italy", "article_link": "https://tienphong.vn/ngam-nhin-tran-dia-phao-hoa-quoc-te-da-nang-2023-cua-hai-doi-tung-xung-vuong-australia-italy-post1543494.tpo"}
+{"is_sarcastic": 0, "headline": "tiểu thuyết về chiến tranh của nguyễn một", "article_link": "https://tienphong.vn/tieu-thuyet-ve-chien-tranh-cua-nguyen-mot-post1544055.tpo"}
+{"is_sarcastic": 0, "headline": "vẻ đẹp độc đáo của phủ thờ được xây dựng hơn 500 năm", "article_link": "https://tienphong.vn/ve-dep-doc-dao-cua-phu-tho-duoc-xay-dung-hon-500-nam-post1544080.tpo"}
+{"is_sarcastic": 0, "headline": "giải trí hè: mờ nhạt ", "article_link": "https://tienphong.vn/giai-tri-he-mo-nhat-post1543973.tpo"}
+{"is_sarcastic": 0, "headline": "nhiều quán ăn nhận giải michelin đông khách nhưng cam kết không tăng giá", "article_link": "https://tienphong.vn/nhieu-quan-an-nhan-giai-michelin-dong-khach-nhung-cam-ket-khong-tang-gia-post1543758.tpo"}
+{"is_sarcastic": 0, "headline": "tại sao messi không đá trận argentina vs indonesia?", "article_link": "https://tienphong.vn/tai-sao-messi-khong-da-tran-argentina-vs-indonesia-post1544194.tpo"}
+{"is_sarcastic": 0, "headline": "nhận định hồng kông (tq) vs thái lan, 19h00 ngày 19/6: voi chiến tìm cảm hứng", "article_link": "https://tienphong.vn/nhan-dinh-hong-kong-tq-vs-thai-lan-19h00-ngay-196-voi-chien-tim-cam-hung-post1544115.tpo"}
+{"is_sarcastic": 0, "headline": "gần 500 vđv tranh tài ở hội thi thể thao các dân tộc thiểu số toàn quốc lần thứ xiii", "article_link": "https://tienphong.vn/gan-500-vdv-tranh-tai-o-hoi-thi-the-thao-cac-dan-toc-thieu-so-toan-quoc-lan-thu-xiii-post1544162.tpo"}
+{"is_sarcastic": 0, "headline": "nhận định pháp vs hy lạp, 01h45 ngày 20/6: thử thách không nhỏ", "article_link": "https://tienphong.vn/nhan-dinh-phap-vs-hy-lap-01h45-ngay-206-thu-thach-khong-nho-post1544175.tpo"}
+{"is_sarcastic": 0, "headline": "nga triển khai hệ thống rải mìn zemledeliye ở zaporizhzhia để ngăn lực lượng ukraine", "article_link": "https://tienphong.vn/nga-trien-khai-he-thong-rai-min-zemledeliye-o-zaporizhzhia-de-ngan-luc-luong-ukraine-post1543705.tpo"}
+{"is_sarcastic": 0, "headline": "đan mạch nêu điều kiện chuyển giao f-16 cho ukraine", "article_link": "https://tienphong.vn/dan-mach-neu-dieu-kien-chuyen-giao-f-16-cho-ukraine-post1543908.tpo"}
+{"is_sarcastic": 0, "headline": "nga đổi chiến thuật sau những va vấp chiến trường ukraine", "article_link": "https://tienphong.vn/nga-doi-chien-thuat-sau-nhung-va-vap-chien-truong-ukraine-post1543968.tpo"}
+{"is_sarcastic": 0, "headline": "anh gửi máy bay không người lái tekever ar3 tới ukraine ", "article_link": "https://tienphong.vn/anh-gui-may-bay-khong-nguoi-lai-tekever-ar3-toi-ukraine-post1543878.tpo"}
+{"is_sarcastic": 0, "headline": "nhan sắc á hậu 29 tuổi đăng quang hoa hậu hòa bình colombia ", "article_link": "https://tienphong.vn/nhan-sac-a-hau-29-tuoi-dang-quang-hoa-hau-hoa-binh-colombia-post1544126.tpo"}
+{"is_sarcastic": 0, "headline": "tranh cãi khi người đẹp thanh thanh huyền được gọi là hoa hậu", "article_link": "https://tienphong.vn/tranh-cai-khi-nguoi-dep-thanh-thanh-huyen-duoc-goi-la-hoa-hau-post1544083.tpo"}
+{"is_sarcastic": 0, "headline": "dàn thí sinh hoa hậu hòa bình việt nam 2023 ", "article_link": "https://tienphong.vn/dan-thi-sinh-hoa-hau-hoa-binh-viet-nam-2023-post1543891.tpo"}
+
+{"is_sarcastic": 0, "headline": "hà tĩnh: bắt nguyên chủ tịch ubnd xã sai phạm về quản lý đất đai", "article_link": "/ha-tinh-bat-nguyen-chu-tich-ubnd-xa-sai-pham-ve-quan-ly-dat-dai-18523061915153426.htm"}
+{"is_sarcastic": 0, "headline": "tp.hcm: người phụ nữ chạy bộ đuổi theo kẻ giật túi xách", "article_link": "/tphcm-nguoi-phu-nu-chay-bo-duoi-theo-ke-giat-tui-xach-185230619115730375.htm"}
+{"is_sarcastic": 0, "headline": "tp.hcm: vào quán bánh canh cua trộm điện thoại", "article_link": "/tphcm-vao-quan-banh-canh-cua-trom-dien-thoai-185230619141836204.htm"}
+{"is_sarcastic": 0, "headline": "hô hoán thất thanh, chạy bộ đuổi theo kẻ giật túi xách", "article_link": "/ho-hoan-that-thanh-chay-bo-duoi-theo-ke-giat-tui-xach-185230619143902341.htm"}
+{"is_sarcastic": 0, "headline": "tai nạn hy hữu: người đàn ông bị cây sắt bờ rào cắm vào giữa trán", "article_link": "/tai-nan-hy-huu-nguoi-dan-ong-bi-cay-sat-bo-rao-cam-vao-giua-tran-185230619133845696.htm"}
+{"is_sarcastic": 0, "headline": "tổng thống biden: không có đường tắt cho ukraine gia nhập nato", "article_link": "/tong-thong-biden-khong-co-duong-tat-cho-ukraine-gia-nhap-nato-18523061911032977.htm"}
+{"is_sarcastic": 0, "headline": "làng biển xưa còn một chút này...", "article_link": "/lang-bien-xua-con-mot-chut-nay-185230619132508365.htm"}   
+{"is_sarcastic": 0, "headline": "kỷ niệm 300 năm thành lập nhà thờ chợ quán", "article_link": "/ky-niem-300-nam-thanh-lap-nha-tho-cho-quan-185230619120012795.htm"}
+{"is_sarcastic": 0, "headline": "hlv lừng danh của syria khen ngợi đội tuyển việt nam, ấn tượng với hoàng đức và ngọc hải", "article_link": "/hlv-lung-danh-cua-syria-khen-ngoi-doi-tuyen-viet-nam-an-tuong-voi-hoang-duc-va-ngoc-hai-185230619112136115.htm"}
+{"is_sarcastic": 0, "headline": "chàng trai bị mắc kẹt trong máng trượt nước gây sốt cộng đồng mạng", "article_link": "/chang-trai-bi-mac-ket-trong-mang-truot-nuoc-gay-sot-cong-dong-mang-185230619111836529.htm"}
+{"is_sarcastic": 0, "headline": "khánh hòa sẽ có cung văn hóa thiếu nhi 'trong mơ'", "article_link": "/khanh-hoa-se-co-cung-van-hoa-thieu-nhi-trong-mo-18523061914374762.htm"}
+{"is_sarcastic": 0, "headline": "cách dùng máy lạnh vừa nhanh mát vừa tiết kiệm điện trong mùa hè", "article_link": "/cach-dung-may-lanh-vua-nhanh-mat-vua-tiet-kiem-dien-trong-mua-he-185230612102712897.htm"}
+{"is_sarcastic": 0, "headline": "sẵn sàng tiếp sức thí sinh xã đảo đi thi", "article_link": "/san-sang-tiep-suc-thi-sinh-xa-dao-di-thi-185230618123638557.htm"}
+{"is_sarcastic": 0, "headline": "nam sinh mồ côi học giỏi nhất lớp không dám mơ vào đại học", "article_link": "/nam-sinh-mo-coi-hoc-gioi-nhat-lop-khong-dam-mo-vao-dai-hoc-185230618123615111.htm"}
+{"is_sarcastic": 0, "headline": "trường sa bây giờ rất xanh", "article_link": "/truong-sa-bay-gio-rat-xanh-185230618123659416.htm"}
+{"is_sarcastic": 0, "headline": "chàng họa sĩ đi khắp nơi vẽ tranh tặng người lạ", "article_link": "/chang-hoa-si-di-khap-noi-ve-tranh-tang-nguoi-la-18523061816371566.htm"}
+{"is_sarcastic": 0, "headline": "tại sao chúng ta chỉ thấy ngôi sao nhấp nháy trên bầu trời, còn hành tinh thì không?", "article_link": "/tai-sao-chung-ta-chi-thay-ngoi-sao-nhap-nhay-tren-bau-troi-con-hanh-tinh-thi-khong-185230616121946714.htm"}
+{"is_sarcastic": 0, "headline": "nhà dân bất ngờ nứt toác, sụt lún do xuất hiện 'hố tử thần'", "article_link": "/nha-dan-bat-ngo-nut-toac-sut-lun-do-xuat-hien-ho-tu-than-185230619124242849.htm"}
+{"is_sarcastic": 0, "headline": "bà ngoại tặng cả 'gia tài' cho cháu trai trước ngày lên đường sang nhật", "article_link": "/ba-ngoai-tang-ca-gia-tai-cho-chau-trai-truoc-ngay-len-duong-sang-nhat-185230619011518136.htm"}
+{"is_sarcastic": 0, "headline": "người dân tây ninh thích thú chụp lại những đám mây ngũ sắc", "article_link": "/nguoi-dan-tay-ninh-thich-thu-chup-lai-nhung-dam-may-ngu-sac-185230617184503262.htm"}
+{"is_sarcastic": 0, "headline": "khánh hòa đột phá từ 2 nghị quyết lớn", "article_link": "/khanh-hoa-dot-pha-tu-2-nghi-quyet-lon-185230616000643234.htm"}
+{"is_sarcastic": 0, "headline": "quy định mới giúp dễ dàng bật chức năng kiếm tiền trên youtube", "article_link": "/quy-dinh-moi-giup-de-dang-bat-chuc-nang-kiem-tien-tren-youtube-185230614123408299.htm"}
+{"is_sarcastic": 0, "headline": "những mẫu smartwatch nổi bật đang giảm giá bán", "article_link": "/nhung-mau-smartwatch-noi-bat-dang-giam-gia-ban-185230619110706797.htm"}
+{"is_sarcastic": 0, "headline": "nhà đầu tư phải ký giấy xác nhận tự chịu trách nhiệm khi mua trái phiếu", "article_link": "/nha-dau-tu-phai-ky-giay-xac-nhan-tu-chiu-trach-nhiem-khi-mua-trai-phieu-185230619100820003.htm"}
+{"is_sarcastic": 0, "headline": "những lý do khiến các thể loại game mmo ngày càng suy tàn", "article_link": "/nhung-ly-do-khien-cac-the-loai-game-mmo-ngay-cang-suy-tan-185230618165736151.htm"}
+{"is_sarcastic": 0, "headline": "mất dần sức hút, toyota corolla altis nâng cấp 'đấu' honda civic", "article_link": "/mat-dan-suc-hut-toyota-corolla-altis-nang-cap-dau-honda-civic-185230618114658732.htm"}
+{"is_sarcastic": 0, "headline": "tổng bí thư: 'một số người có chức, có quyền như ông vua con'", "article_link": "/tong-bi-thu-mot-so-nguoi-co-chuc-co-quyen-nhu-ong-vua-con-185230619151918508.htm"}
+{"is_sarcastic": 0, "headline": "'nhiều người nước ngoài núp bóng người việt thâu tóm đất đai'", "article_link": "/nhieu-nguoi-nuoc-ngoai-nup-bong-nguoi-viet-thau-tom-dat-dai-185230619142002394.htm"}
+{"is_sarcastic": 0, "headline": "ban tôn giáo chỉ đạo gì sau vụ 'trải nghiệm kinh hoàng' ở chùa cự đà?", "article_link": "/ban-ton-giao-chi-dao-gi-sau-vu-trai-nghiem-kinh-hoang-o-chua-cu-da-185230619145452343.htm"}
+{"is_sarcastic": 0, "headline": "vải không hạt giá cao gấp 5 - 6 lần bình thường vẫn ‘cháy hàng’", "article_link": "/vai-khong-hat-gia-cao-gap-5-6-lan-binh-thuong-van-chay-hang-185230619140037097.htm"}
+{"is_sarcastic": 0, "headline": "nghệ an: nam sinh lớp 11 tử vong, nghi bị đánh nhầm", "article_link": "/nghe-an-nam-sinh-lop-11-tu-vong-nghi-bi-danh-nham-18523061913550674.htm"}
+{"is_sarcastic": 0, "headline": "vụ hối lộ 30 tỉ đồng ở quảng ninh: sai phạm chỉ gói gọn tại sở gd-đt?", "article_link": "/vu-hoi-lo-30-ti-dong-o-quang-ninh-sai-pham-chi-goi-gon-tai-so-gd-dt-18523061911334587.htm"}
+{"is_sarcastic": 0, "headline": "ngân hàng ồ ạt mua lại trái phiếu trước hạn", "article_link": "/ngan-hang-o-at-mua-lai-truoc-han-185230619112305522.htm"}
+{"is_sarcastic": 0, "headline": "cựu lãnh đội tuyển cờ tướng việt nam tô quốc khanh ra đầu thú", "article_link": "/cuu-lanh-doi-tuyen-co-tuong-viet-nam-to-quoc-khanh-ra-dau-thu-185230619105253151.htm"}
+{"is_sarcastic": 0, "headline": "đề xuất không bắt buộc mua bán bất động sản qua sàn", "article_link": "/de-xuat-khong-bat-buoc-mua-ban-bat-dong-san-qua-san-185230619143353831.htm"}
+{"is_sarcastic": 0, "headline": "phía sau những clip triệu view con trai trò chuyện với bố khiến dân mạng thích thú", "article_link": "/phia-sau-nhung-clip-trieu-view-con-trai-tro-chuyen-voi-bo-khien-dan-mang-thich-thu-185230613213647782.htm"}
+{"is_sarcastic": 0, "headline": "vụ án thuduc house: 11/25 cựu cán bộ thuế, hải quan được đề nghị án treo", "article_link": "/vu-an-thuduc-house-11-25-cuu-can-bo-thue-hai-quan-duoc-de-nghi-an-treo-18523061913393759.htm"}
+{"is_sarcastic": 0, "headline": "ngoại trưởng mỹ blinken gặp chủ tịch trung quốc tập cận bình tại bắc kinh", "article_link": "/ngoai-truong-my-blinken-gap-chu-tich-trung-quoc-tap-can-binh-tai-bac-kinh-185230619153726498.htm"}
+{"is_sarcastic": 0, "headline": "công phượng: 'tôi không còn trẻ, phải nỗ lực hết mình khi có cơ hội'", "article_link": "/cong-phuong-toi-khong-con-tre-phai-no-luc-het-minh-khi-co-co-hoi-185230619161158971.htm"}
+{"is_sarcastic": 0, "headline": "cơ hội điều trị miễn phí cho bệnh nhi dị tật khe hở môi, vòm miệng", "article_link": "/co-hoi-dieu-tri-mien-phi-cho-benh-nhi-di-tat-khe-ho-moi-vom-mieng-185230619155321376.htm"}
+{"is_sarcastic": 0, "headline": "uae và qatar mở lại sứ quán 6 năm sau khi cắt đứt quan hệ", "article_link": "/uae-va-qatar-mo-lai-su-quan-6-nam-sau-khi-cat-dut-quan-he-185230619163510375.htm"}
+{"is_sarcastic": 0, "headline": "cách đi bộ có thể phản ánh sức khỏe của bạn", "article_link": "/cach-di-bo-co-the-phan-anh-suc-khoe-cua-ban-18523061820331134.htm"}
+{"is_sarcastic": 0, "headline": "toyota fortuner legender 'mất giá' hơn 350 triệu đồng sau 1 năm sử dụng", "article_link": "/toyota-fortuner-legender-mat-gia-hon-350-trieu-dong-sau-1-nam-su-dung-185230618110616334.htm"}
+{"is_sarcastic": 0, "headline": "giá ô tô đã qua sử dụng chạm 'đáy', xe cũ khó bán", "article_link": "/gia-o-to-da-qua-su-dung-cham-day-xe-cu-kho-ban-185230616140321904.htm"}
+{"is_sarcastic": 0, "headline": "trung nguyên đến trung nguyên legend - duy nhất tầm nhìn tập đoàn cà phê toàn cầu", "article_link": "/trung-nguyen-den-trung-nguyen-legend-duy-nhat-tam-nhin-tap-doan-ca-phe-toan-cau-185230615220511982.htm"}
+{"is_sarcastic": 0, "headline": "cuốn sách nghiên cứu cách thức gây ảnh hưởng", "article_link": "/cuon-sach-nghien-cuu-cach-thuc-gay-anh-huong-185230605184538383.htm"}
+{"is_sarcastic": 0, "headline": "từ mỹ học đến các loại hình nghệ thuật", "article_link": "/tu-my-hoc-den-cac-loai-hinh-nghe-thuat-18523050915430231.htm"}
+{"is_sarcastic": 0, "headline": "khởi tố 530 vụ án, 1.132 cán bộ, đảng viên tham nhũng ở địa phương", "article_link": "/khoi-to-530-vu-an-1132-can-bo-dang-vien-tham-nhung-o-dia-phuong-18523061913245189.htm"}
+{"is_sarcastic": 1, "headline": "Siêu xe có gì mà khoe?", "article_link": "https://cuoi.tuoitre.vn/sieu-xe-co-gi-ma-khoe-20230618172048818.htm"}
+{"is_sarcastic": 1, "headline": "Cô gái không màng siêu xe", "article_link": "https://cuoi.tuoitre.vn/co-gai-khong-mang-sieu-xe-20230617180652233.htm"}
+{"is_sarcastic": 1, "headline": "Tuyển sinh lớp 1 'căng' như đại học", "article_link": "https://cuoi.tuoitre.vn/tuyen-sinh-lop-1-cang-nhu-dai-hoc-20230615211909332.htm"}
+{"is_sarcastic": 1, "headline": "Loài gà trong vũ trụ măng cụt", "article_link": "https://cuoi.tuoitre.vn/loai-ga-trong-vu-tru-mang-cut-2023061009471328.htm"}
+{"is_sarcastic": 1, "headline": "Vì sao sếp tôi mua ô tô điện?", "article_link": "https://cuoi.tuoitre.vn/vi-sao-sep-toi-mua-o-to-dien-20230609225442871.htm"}
+{"is_sarcastic": 1, "headline": "Ô tô điện 'nửa nạc nửa mỡ' thời cúp điện", "article_link": "https://cuoi.tuoitre.vn/o-to-dien-nua-nac-nua-mo-thoi-cup-dien-20230604222306911.htm"}
+{"is_sarcastic": 1, "headline": "Chiến thuật tiết kiệm điện... 'đi vào lòng đất'", "article_link": "https://cuoi.tuoitre.vn/chien-thuat-tiet-kiem-dien-di-vao-long-dat-20230530012354086.htm"}
+{"is_sarcastic": 1, "headline": "Những quy định phòng cháy, chữa cháy 'trên trời' đì doanh nghiệp", "article_link": "https://cuoi.tuoitre.vn/nhung-quy-dinh-phong-chay-chua-chay-tren-troi-di-doanh-nghiep-20230526110654328.htm"}
+{"is_sarcastic": 1, "headline": "Chị chanh dây trợ giúp anh cà phê", "article_link": "https://cuoi.tuoitre.vn/chi-chanh-day-tro-giup-anh-ca-phe-20230508122839677.htm"}
+{"is_sarcastic": 1, "headline": "Chống nóng mà tưởng Cô-Vít ghé thăm", "article_link": "https://cuoi.tuoitre.vn/chong-nong-ma-tuong-co-vit-ghe-tham-20230425213939605.htm"}
+{"is_sarcastic": 1, "headline": "Nắng nóng làm ông chồng mất tỉnh táo trong vấn đề 'tiết kiệm điện'", "article_link": "https://cuoi.tuoitre.vn/nang-nong-lam-ong-chong-mat-tinh-tao-trong-van-de-tiet-kiem-dien-20230420144213832.htm"}
+{"is_sarcastic": 1, "headline": "Bữa ăn 'heo thì' cho học sinh trường quốc tế", "article_link": "https://cuoi.tuoitre.vn/bua-an-heo-thi-cho-hoc-sinh-truong-quoc-te-20230417205827039.htm"}
+{"is_sarcastic": 1, "headline": "Chuyến bay giải cứu: May túi trăm gang, mang đi mà đựng", "article_link": "https://cuoi.tuoitre.vn/chuyen-bay-giai-cuu-may-tui-tram-gang-mang-di-ma-dung-20230415095400039.htm"}
+{"is_sarcastic": 1, "headline": "Kiến trúc cổ được trùng tu hơi... mạnh tay", "article_link": "https://cuoi.tuoitre.vn/kien-truc-co-duoc-trung-tu-hoi-manh-tay-20230414121448183.htm"}
+{"is_sarcastic": 1, "headline": "Đi nhậu bằng xe đạp để né đo nồng độ cồn", "article_link": "https://cuoi.tuoitre.vn/di-nhau-bang-xe-dap-de-ne-do-nong-do-con-20230411222615112.htm"}
+{"is_sarcastic": 1, "headline": "Phụ huynh bàn chuyện học đại học", "article_link": "https://cuoi.tuoitre.vn/phu-huynh-ban-chuyen-hoc-dai-hoc-20230617172707694.htm"}
+{"is_sarcastic": 1, "headline": "Cầu thủ cúp điện ra sân, đội bạn đầu hàng ngay từ đầu", "article_link": "https://cuoi.tuoitre.vn/cau-thu-cup-dien-ra-san-doi-ban-dau-hang-ngay-tu-dau-20230616093428155.htm"}
+{"is_sarcastic": 1, "headline": "Người đàn ông bơ vơ vì tiết kiệm điện", "article_link": "https://cuoi.tuoitre.vn/nguoi-dan-ong-bo-vo-vi-tiet-kiem-dien-20230606082454527.htm"}
+{"is_sarcastic": 1, "headline": "'Hàm chó vó ngựa' và 'nó hiền lắm'", "article_link": "https://cuoi.tuoitre.vn/ham-cho-vo-ngua-va-no-hien-lam-20230602212939945.htm"}
+{"is_sarcastic": 1, "headline": "Graffiti: Mạo nhận đam mê, kệ bao người khổ", "article_link": "https://cuoi.tuoitre.vn/graffiti-mao-nhan-dam-me-ke-bao-nguoi-kho-20230524222203231.htm"}
+{"is_sarcastic": 1, "headline": "Mùa hè khốc liệt, ai cứu tôi với!", "article_link": "https://cuoi.tuoitre.vn/mua-he-khoc-liet-ai-cuu-toi-voi-20230523102244841.htm"}
+{"is_sarcastic": 1, "headline": "Thuốc lá điện tử 'áp sát' cổng trường", "article_link": "https://cuoi.tuoitre.vn/thuoc-la-dien-tu-ap-sat-cong-truong-20230501083432026.htm"}
+{"is_sarcastic": 1, "headline": "Vì sao du khách lại 'ấm ức'?", "article_link": "https://cuoi.tuoitre.vn/vi-sao-du-khach-lai-am-uc-20230429102421105.htm"}
+{"is_sarcastic": 1, "headline": "Nhân viên gương mẫu đi sớm về khuya vẫn có thể bị đuổi việc", "article_link": "https://cuoi.tuoitre.vn/nhan-vien-guong-mau-di-som-ve-khuya-van-co-the-bi-duoi-viec-20230420222038562.htm"}
+{"is_sarcastic": 1, "headline": "Khi con nít rành ngoại ngữ hơn tiếng mẹ đẻ", "article_link": "https://cuoi.tuoitre.vn/khi-con-nit-ranh-ngoai-ngu-hon-tieng-me-de-20230418214330753.htm"}
+{"is_sarcastic": 1, "headline": "Quán nhậu cuối tuần: Vào ba, ra bảy!", "article_link": "https://cuoi.tuoitre.vn/quan-nhau-cuoi-tuan-vao-ba-ra-bay-2023040822382712.htm"}
+{"is_sarcastic": 1, "headline": "Bà nội trợ dọa bé sầu riêng", "article_link": "https://cuoi.tuoitre.vn/ba-noi-tro-doa-be-sau-rieng-20230311161134611.htm"}
+{"is_sarcastic": 1, "headline": "Clip xấu, bẩn tấn công trẻ em", "article_link": "https://cuoi.tuoitre.vn/clip-xau-ban-tan-cong-tre-em-20230309135343403.htm"}
+{"is_sarcastic": 1, "headline": "Tâm sự đàn ông dịp 8 tháng 3 cận kề", "article_link": "https://cuoi.tuoitre.vn/tam-su-dan-ong-dip-8-thang-3-can-ke-20230305122615409.htm"}
+{"is_sarcastic": 1, "headline": "Vòng xoay giải cứu nông sản", "article_link": "https://cuoi.tuoitre.vn/vong-xoay-giai-cuu-nong-san-20230224103931087.htm"}
+{"is_sarcastic": 1, "headline": "Bạn cũ lâu ngày không gặp", "article_link": "https://cuoi.tuoitre.vn/ban-cu-lau-ngay-khong-gap-20230616195031192.htm"}
+{"is_sarcastic": 1, "headline": "Ông bố té ngửa vì lời nói đầu đời của con trai", "article_link": "https://cuoi.tuoitre.vn/ong-bo-te-ngua-vi-loi-noi-dau-doi-cua-con-trai-20230614223535519.htm"}
+{"is_sarcastic": 1, "headline": "Bộ phim live-action 'Lò đào tạo... mùa hè'", "article_link": "https://cuoi.tuoitre.vn/bo-phim-live-action-lo-dao-tao-mua-he-20230604111005822.htm"}
+{"is_sarcastic": 1, "headline": "Anh chồng rơi lệ vì... công việc nội trợ", "article_link": "https://cuoi.tuoitre.vn/anh-chong-roi-le-vi-cong-viec-noi-tro-20230520143901529.htm"}
+{"is_sarcastic": 1, "headline": "Giải nóng mùa hè: Tuy buồn nhưng... mát", "article_link": "https://cuoi.tuoitre.vn/giai-nong-mua-he-tuy-buon-nhung-mat-20230513224048986.htm"}
+{"is_sarcastic": 1, "headline": "Gymer hệ... máy lạnh", "article_link": "https://cuoi.tuoitre.vn/gymer-he-may-lanh-20230501091659261.htm"}
+{"is_sarcastic": 1, "headline": "Biệt đội K gặp lại cậu chủ", "article_link": "https://cuoi.tuoitre.vn/biet-doi-k-gap-lai-cau-chu-20230429215452962.htm"}
+{"is_sarcastic": 1, "headline": "Lễ trao giải 'tài liệu dày nhất thế giới' - Hợp đồng bảo hiểm đứng thứ mấy?", "article_link": "https://cuoi.tuoitre.vn/le-trao-giai-tai-lieu-day-nhat-the-gioi-hop-dong-bao-hiem-dung-thu-may-20230416191231566.htm"}
+{"is_sarcastic": 1, "headline": "Sáng chủ nhật đổi gió với món bún xào không cay", "article_link": "https://cuoi.tuoitre.vn/sang-chu-nhat-doi-gio-voi-mon-bun-xao-khong-cay-20230415202857398.htm"}
+{"is_sarcastic": 1, "headline": "Trái đất về lại kỷ băng hà?", "article_link": "https://cuoi.tuoitre.vn/trai-dat-ve-lai-ky-bang-ha-20230414230346572.htm"}
+{"is_sarcastic": 1, "headline": "Mẹ nổi đóa vì ba dạy con nhỏ chơi TikTok", "article_link": "https://cuoi.tuoitre.vn/me-noi-doa-vi-ba-day-con-nho-choi-tiktok-20230408230018692.htm"}
+{"is_sarcastic": 1, "headline": "Bảng chữ cái của người nổi tiếng", "article_link": "https://cuoi.tuoitre.vn/bang-chu-cai-cua-nguoi-noi-tieng-20230408153332652.htm"}
+{"is_sarcastic": 1, "headline": "'Mày biết bố mày là ai không?' - phiên bản động vật", "article_link": "https://cuoi.tuoitre.vn/may-biet-bo-may-la-ai-khong-phien-ban-dong-vat-20230405175509643.htm"}
+{"is_sarcastic": 1, "headline": "Người đàn ông khắc chế 'tia UV thần chưởng'", "article_link": "https://cuoi.tuoitre.vn/nguoi-dan-ong-khac-che-tia-uv-than-chuong-20230402101857816.htm"}
+{"is_sarcastic": 1, "headline": "Cô bé Lọ Lem thời bốn chấm không", "article_link": "https://cuoi.tuoitre.vn/co-be-lo-lem-thoi-bon-cham-khong-20230330150405071.htm"}
+{"is_sarcastic": 1, "headline": "Chuyên gia Michelin âm thầm đánh giá quán hủ tiếu bình dân", "article_link": "https://cuoi.tuoitre.vn/chuyen-gia-michelin-am-tham-danh-gia-quan-hu-tieu-binh-dan-20230617174701624.htm"}
+{"is_sarcastic": 1, "headline": "Đòi nợ thuê theo phong cách nghệ sĩ", "article_link": "https://cuoi.tuoitre.vn/doi-no-thue-theo-phong-cach-nghe-si-20230616142023099.htm"}
+{"is_sarcastic": 1, "headline": "Cục nợ đến từ hư vô: Crush làm, cam chịu!", "article_link": "https://cuoi.tuoitre.vn/cuc-no-den-tu-hu-vo-crush-lam-cam-chiu-20230614141447193.htm"}
+{"is_sarcastic": 1, "headline": "'Cuộc chiến' ô tô điện gay cấn ngay từ khâu 'cấy' trạm sạc", "article_link": "https://cuoi.tuoitre.vn/cuoc-chien-o-to-dien-gay-can-ngay-tu-khau-cay-tram-sac-20230611223839407.htm"}
+{"is_sarcastic": 1, "headline": "Chim ưng gọi đại bàng: Hãy tiết kiệm điện ngay!", "article_link": "https://cuoi.tuoitre.vn/chim-ung-goi-dai-bang-hay-tiet-kiem-dien-ngay-20230608112018171.htm"}
+{"is_sarcastic": 1, "headline": "Trời hanh vật khô, cẩn thận... cắt điện", "article_link": "https://cuoi.tuoitre.vn/troi-hanh-vat-kho-can-than-cat-dien-20230608092854236.htm"}
+{"is_sarcastic": 1, "headline": "'Thần y' bị sao sỏi thận chiếu mệnh", "article_link": "https://cuoi.tuoitre.vn/than-y-bi-sao-soi-than-chieu-menh-20230607191256615.htm"}
+{"is_sarcastic": 1, "headline": "Làm đẹp học bạ, làm hại học sinh", "article_link": "https://cuoi.tuoitre.vn/lam-dep-hoc-ba-lam-hai-hoc-sinh-20230531213845853.htm"}
+{"is_sarcastic": 1, "headline": "'Tìm chó lạc' khiến con phố im ắng", "article_link": "https://cuoi.tuoitre.vn/tim-cho-lac-khien-con-pho-im-ang-20230530222911285.htm"}
+{"is_sarcastic": 1, "headline": "Bệnh viện: Đất lành... cò đậu", "article_link": "https://cuoi.tuoitre.vn/benh-vien-dat-lanh-co-dau-20230523104344562.htm"}
+{"is_sarcastic": 1, "headline": "Thành tích 100% học sinh giỏi... hơi kỳ", "article_link": "https://cuoi.tuoitre.vn/thanh-tich-100-hoc-sinh-gioi-hoi-ky-20230522154059475.htm"}
+{"is_sarcastic": 1, "headline": "Mùa hè về trên những chiếc yên xe", "article_link": "https://cuoi.tuoitre.vn/mua-he-ve-tren-nhung-chiec-yen-xe-20230517173043886.htm"}
+{"is_sarcastic": 1, "headline": "Lỗ triền miên, lỗ siêu to khổng lồ", "article_link": "https://cuoi.tuoitre.vn/lo-trien-mien-lo-sieu-to-khong-lo-20230506124948739.htm"}
+{"is_sarcastic": 1, "headline": "Bạo lực học đường: Tốt khoe xấu che", "article_link": "https://cuoi.tuoitre.vn/bao-luc-hoc-duong-tot-khoe-xau-che-20230509220158949.htm"}
+{"is_sarcastic": 1, "headline": "SEA Games nóng bỏng: Cooling break thôi nào!", "article_link": "https://cuoi.tuoitre.vn/sea-games-nong-bong-cooling-break-thoi-nao-20230510111020667.htm"}
+{"is_sarcastic": 1, "headline": "Quan chức bị bệnh gì lạ ghê!", "article_link": "https://cuoi.tuoitre.vn/quan-chuc-bi-benh-gi-la-ghe-20230614153422405.htm"}
+{"is_sarcastic": 1, "headline": "Sinh viên người nhện có việc làm 100%", "article_link": "https://cuoi.tuoitre.vn/sinh-vien-nguoi-nhen-co-viec-lam-100-20230613222951531.htm"}
+{"is_sarcastic": 1, "headline": "Chim thần ăn khế trả hóa đơn tiền điện, lời quá lời!", "article_link": "https://cuoi.tuoitre.vn/chim-than-an-khe-tra-hoa-don-tien-dien-loi-qua-loi-2023061219565612.htm"}
+{"is_sarcastic": 1, "headline": "Ăn kiêng chẳng có gì vui!", "article_link": "https://cuoi.tuoitre.vn/an-kieng-chang-co-gi-vui-20230610220033584.htm"}
+{"is_sarcastic": 1, "headline": "Võ sư thời cúp điện luân phiên", "article_link": "https://cuoi.tuoitre.vn/vo-su-thoi-cup-dien-luan-phien-20230603090031806.htm"}
+{"is_sarcastic": 1, "headline": "Gà mẹ cấm con chơi... măng cụt", "article_link": "https://cuoi.tuoitre.vn/ga-me-cam-con-choi-mang-cut-20230531120209786.htm"}
+{"is_sarcastic": 1, "headline": "'Bữa ăn mẫu' trong trường bán trú", "article_link": "https://cuoi.tuoitre.vn/bua-an-mau-trong-truong-ban-tru-20230528224504892.htm"}
+{"is_sarcastic": 1, "headline": "Chầu nhậu đắt đỏ, ông nào cũng né", "article_link": "https://cuoi.tuoitre.vn/chau-nhau-dat-do-ong-nao-cung-ne-20230524221121337.htm"}
+{"is_sarcastic": 1, "headline": "Quạt mo thương hiệu Thằng Bờm cháy hàng", "article_link": "https://cuoi.tuoitre.vn/quat-mo-thuong-hieu-thang-bom-chay-hang-20230518170456947.htm"}
+{"is_sarcastic": 1, "headline": "Quan chức, cò môi giới... cạnh tranh mua nhà ở xã hội với người nghèo", "article_link": "https://cuoi.tuoitre.vn/quan-chuc-co-moi-gioi-canh-tranh-mua-nha-o-xa-hoi-voi-nguoi-ngheo-2023051416573928.htm"}
+{"is_sarcastic": 1, "headline": "Cách chọn ngành nghề đại học có 1-0-2", "article_link": "https://cuoi.tuoitre.vn/cach-chon-nganh-nghe-dai-hoc-co-1-0-2-20230430154609894.htm"}
+{"is_sarcastic": 1, "headline": "Chuyến du lịch đầy cảm xúc dịp lễ 2023", "article_link": "https://cuoi.tuoitre.vn/chuyen-du-lich-day-cam-xuc-dip-le-2023-20230427225043135.htm"}
+{"is_sarcastic": 1, "headline": "Đời học sinh 'khó nuốt' vì bạo lực học đường?", "article_link": "https://cuoi.tuoitre.vn/doi-hoc-sinh-kho-nuot-vi-bao-luc-hoc-duong-20230426185540386.htm"}
+{"is_sarcastic": 1, "headline": "Cố gắng lên, rồi con sẽ giỏi tiếng mẹ đẻ như... tiếng Anh", "article_link": "https://cuoi.tuoitre.vn/co-gang-len-roi-con-se-gioi-tieng-me-de-nhu-tieng-anh-20230422192110285.htm"}
+{"is_sarcastic": 1, "headline": "Mối liên hệ giữa phong thủy và phong bì", "article_link": "https://cuoi.tuoitre.vn/moi-lien-he-giua-phong-thuy-va-phong-bi-2023042113513775.htm"}
+{"is_sarcastic": 1, "headline": "Tuổi Trẻ Cười số 15-6-2023: Cúp điện và có điện luân phiên", "article_link": "https://cuoi.tuoitre.vn/tuoi-tre-cuoi-so-15-6-2023-cup-dien-va-co-dien-luan-phien-2023061321125276.htm"}
+{"is_sarcastic": 1, "headline": "Gỏi gà măng cụt sẽ kéo dài trong bao lâu?", "article_link": "https://cuoi.tuoitre.vn/goi-ga-mang-cut-se-keo-dai-trong-bao-lau-20230611221635358.htm"}
+{"is_sarcastic": 1, "headline": "Bạn sẽ làm gì nếu được trở về tuổi thơ trong 24 giờ?", "article_link": "https://cuoi.tuoitre.vn/ban-se-lam-gi-neu-duoc-tro-ve-tuoi-tho-trong-24-gio-20230609143829206.htm"}
+{"is_sarcastic": 1, "headline": "Khoe con: Con mà là số 2 thì không ai số 1", "article_link": "https://cuoi.tuoitre.vn/khoe-con-con-ma-la-so-2-thi-khong-ai-so-1-20230606144826339.htm"}
+{"is_sarcastic": 1, "headline": "TikTok: Lò ấp clip xấu độc?", "article_link": "https://cuoi.tuoitre.vn/tiktok-lo-ap-clip-xau-doc-2023060610521679.htm"}
+{"is_sarcastic": 1, "headline": "Thất thoát lãng phí: Cùng làm cùng hưởng, cùng đường vô... lao", "article_link": "https://cuoi.tuoitre.vn/that-thoat-lang-phi-cung-lam-cung-huong-cung-duong-vo-lao-20230531113138387.htm"}
+{"is_sarcastic": 1, "headline": "Nghịch lý lớp 1: Con gà có trước hay quả trứng có trước?", "article_link": "https://cuoi.tuoitre.vn/nghich-ly-lop-1-con-ga-co-truoc-hay-qua-trung-co-truoc-20230605142731152.htm"}
+{"is_sarcastic": 1, "headline": "Sinh viên có việc làm cao ngất ngưởng, nhiều ngành đạt 100%", "article_link": "https://cuoi.tuoitre.vn/sinh-vien-co-viec-lam-cao-ngat-nguong-nhieu-nganh-dat-100-20230605103749334.htm"}
+{"is_sarcastic": 1, "headline": "Bạo lực gia đình: Làm sao để né nhau 50m?", "article_link": "https://cuoi.tuoitre.vn/bao-luc-gia-dinh-lam-sao-de-ne-nhau-50m-20230531114205976.htm"}
+{"is_sarcastic": 1, "headline": "Sách giáo khoa trở lại độc quyền?", "article_link": "https://cuoi.tuoitre.vn/sach-giao-khoa-tro-lai-doc-quyen-20230602105414853.htm"}
+{"is_sarcastic": 1, "headline": "Hoa hồng bảo hiểm cao chót vót... đến 40%", "article_link": "https://cuoi.tuoitre.vn/hoa-hong-bao-hiem-cao-chot-vot-den-40-20230601224029327.htm"}
+{"is_sarcastic": 1, "headline": "Tuổi Trẻ Cười số 1-6-2023: Vé số dạo tạo doanh thu khủng", "article_link": "https://cuoi.tuoitre.vn/tuoi-tre-cuoi-so-1-6-2023-ve-so-dao-tao-doanh-thu-khung-20230530142901872.htm"}
+{"is_sarcastic": 1, "headline": "Gỏi gà măng cụt: Giải quyết việc làm, ông bà tá hỏa", "article_link": "https://cuoi.tuoitre.vn/goi-ga-mang-cut-giai-quyet-viec-lam-ong-ba-ta-hoa-20230530094613628.htm"}
+{"is_sarcastic": 1, "headline": "Ngoại choáng vì... ngoại ngữ", "article_link": "https://cuoi.tuoitre.vn/ngoai-choang-vi-ngoai-ngu-20230528222929274.htm"}
+{"is_sarcastic": 1, "headline": "Thiết kế hạn chế cửa xe ô tô 'vô tri'", "article_link": "https://cuoi.tuoitre.vn/thiet-ke-han-che-cua-xe-o-to-vo-tri-20230527085321793.htm"}
+{"is_sarcastic": 1, "headline": "'Cục gạch' lại lên ngôi mùa cúp điện", "article_link": "https://cuoi.tuoitre.vn/cuc-gach-lai-len-ngoi-mua-cup-dien-20230609142637253.htm"}
+{"is_sarcastic": 1, "headline": "Năm học thành công tốt đẹp", "article_link": "https://cuoi.tuoitre.vn/nam-hoc-thanh-cong-tot-dep-20230608234517764.htm"}
+{"is_sarcastic": 1, "headline": "Thuốc lá vừa đốt tiền vừa đốt sức khỏe", "article_link": "https://cuoi.tuoitre.vn/thuoc-la-vua-dot-tien-vua-dot-suc-khoe-2023053110501127.htm"}
+{"is_sarcastic": 1, "headline": "Mùa hè 'gõ cửa' khắp mọi miền", "article_link": "https://cuoi.tuoitre.vn/mua-he-go-cua-khap-moi-mien-20230506114755542.htm"}
+{"is_sarcastic": 1, "headline": "Quá chủ quan nên bị ông Mặt trời giật tung người", "article_link": "https://cuoi.tuoitre.vn/qua-chu-quan-nen-bi-ong-mat-troi-giat-tung-nguoi-2023042500182212.htm"}
+{"is_sarcastic": 1, "headline": "Người thu nhập thấp tham gia... giải cứu", "article_link": "https://cuoi.tuoitre.vn/nguoi-thu-nhap-thap-tham-gia-giai-cuu-20230416185746525.htm"}
+{"is_sarcastic": 1, "headline": "Du lịch nội địa 'đói khách' vì giá vé máy bay cao ngất ngưởng", "article_link": "https://cuoi.tuoitre.vn/du-lich-noi-dia-doi-khach-vi-gia-ve-may-bay-cao-ngat-nguong-20230413020241506.htm"}
+{"is_sarcastic": 1, "headline": "Bảo hiểm nhân thọ 'thao túng tâm lý' khách hàng", "article_link": "https://cuoi.tuoitre.vn/bao-hiem-nhan-tho-thao-tung-tam-ly-khach-hang-20230412201445505.htm"}
+{"is_sarcastic": 1, "headline": "Cuộc chiến giữa nhà mặt tiền và xe ô tô", "article_link": "https://cuoi.tuoitre.vn/cuoc-chien-giua-nha-mat-tien-va-xe-o-to-20230328214849664.htm"}
+{"is_sarcastic": 1, "headline": "Thần dược vừa giảm cân vừa tăng cân", "article_link": "https://cuoi.tuoitre.vn/than-duoc-vua-giam-can-vua-tang-can-20230328121944367.htm"}
+{"is_sarcastic": 1, "headline": "Voucher thiết thực nhất ngày 8 tháng 3", "article_link": "https://cuoi.tuoitre.vn/voucher-thiet-thuc-nhat-ngay-8-thang-3-20230308143750383.htm"}
+{"is_sarcastic": 1, "headline": "Ông xăng tặng ông điện kinh nghiệm tăng giá", "article_link": "https://cuoi.tuoitre.vn/ong-xang-tang-ong-dien-kinh-nghiem-tang-gia-2023022716205876.htm"}
+{"is_sarcastic": 1, "headline": "Thầy bói phán câu xanh rờn khiến quan tham tâm phục khẩu phục", "article_link": "https://cuoi.tuoitre.vn/thay-boi-phan-cau-xanh-roi-khien-quan-tham-tam-phuc-khau-phuc-20230207093655535.htm"}
+{"is_sarcastic": 1, "headline": "Cá chép cúng ông Táo bị hành hạ, hết bay nổi!", "article_link": "https://cuoi.tuoitre.vn/ca-chep-cung-ong-tao-bi-hanh-ha-het-bay-noi-20230113200957706.htm"}
+{"is_sarcastic": 1, "headline": "Thưởng Tết mau ứng cứu!", "article_link": "https://cuoi.tuoitre.vn/thuong-tet-mau-ung-cuu-20230111210408152.htm"}
+{"is_sarcastic": 1, "headline": "Cô con gái và nỗi oan mang tên deepfake", "article_link": "https://cuoi.tuoitre.vn/co-con-gai-va-noi-oan-mang-ten-deepfake-20230331103936885.htm"}
+{"is_sarcastic": 1, "headline": "Thằng Vàng tạo 'To do list độc lạ' cho năm 2023", "article_link": "https://cuoi.tuoitre.vn/thang-vang-tao-to-do-list-doc-la-cho-nam-2023-20230203162830482.htm"}
+{"is_sarcastic": 1, "headline": "Thằng Vàng đi họp lớp ngày đầu năm", "article_link": "https://cuoi.tuoitre.vn/thang-vang-di-hop-lop-ngay-dau-nam-20230128130109209.htm"}
+{"is_sarcastic": 1, "headline": "Mua nhà cạnh sân bay: Tuy gần mà xa", "article_link": "https://cuoi.tuoitre.vn/mua-nha-canh-san-bay-tuy-gan-ma-xa-20220816181947329.htm"}
+{"is_sarcastic": 1, "headline": "Cây xanh đô thị: Ngày xửa ngày xưa...", "article_link": "https://cuoi.tuoitre.vn/cay-xanh-do-thi-ngay-xua-ngay-xua-20220719170812887.htm"}
+{"is_sarcastic": 1, "headline": "Hành khách hàng không khốn khổ vì vài km đi taxi", "article_link": "https://cuoi.tuoitre.vn/hanh-khach-hang-khong-khon-kho-vi-vai-km-di-taxi-2022030334732152.htm"}
+{"is_sarcastic": 1, "headline": "F0 ngày ấy - F0 bây giờ", "article_link": "https://cuoi.tuoitre.vn/f0-ngay-ay-f0-bay-gio-2022030173456615.htm"}
+{"is_sarcastic": 1, "headline": "Chuyện Valentine giờ mới kể", "article_link": "https://cuoi.tuoitre.vn/chuyen-valentine-gio-moi-ke-2022021690039315.htm"}
+{"is_sarcastic": 1, "headline": "Nhâm Dần quyết đấu Cô-Vít", "article_link": "https://cuoi.tuoitre.vn/nham-dan-quyet-dau-co-vit-2022012351715662.htm"}
+{"is_sarcastic": 1, "headline": "Vì sao Ngọc Hoàng phải đeo khẩu trang?", "article_link": "https://cuoi.tuoitre.vn/vi-sao-ngoc-hoang-phai-deo-khau-trang-2022012614054815.htm"}
+{"is_sarcastic": 1, "headline": "Hot trend Tân Sửu: Sao kê, phong sát, trà xanh", "article_link": "https://cuoi.tuoitre.vn/hot-trend-tan-suu-sao-ke-phong-sat-tra-xanh-2022010670843915.htm"}
+{"is_sarcastic": 1, "headline": "Năm 2022: Bình tĩnh sống", "article_link": "https://cuoi.tuoitre.vn/nam-2022-binh-tinh-song-2022010522615575.htm"}
+{"is_sarcastic": 1, "headline": "Tập gym đón Tết", "article_link": "https://cuoi.tuoitre.vn/tap-gym-don-tet-2022010550125154.htm"}
+{"is_sarcastic": 1, "headline": "Trà xanh - một trong những từ khóa hot nhất năm 2021", "article_link": "https://cuoi.tuoitre.vn/tra-xanh-mot-trong-nhung-tu-khoa-hot-nhat-nam-2021-2021122922991715.htm"}
+{"is_sarcastic": 1, "headline": "Săn được hàng sale mà vẫn lỗ", "article_link": "https://cuoi.tuoitre.vn/san-duoc-hang-sale-ma-van-lo-2021121853229715.htm"}
+{"is_sarcastic": 1, "headline": "Trường đại học cam kết 100% sinh viên có việc làm", "article_link": "https://cuoi.tuoitre.vn/truong-dai-hoc-cam-ket-100-sinh-vien-co-viec-lam-20230617170739225.htm"}
+{"is_sarcastic": 1, "headline": "Phần bánh 'nano' dành cho người bán vé số dạo", "article_link": "https://cuoi.tuoitre.vn/phan-banh-nano-danh-cho-nguoi-ban-ve-so-dao-20230608235950785.htm"}
+{"is_sarcastic": 1, "headline": "Thần tiên hục hặc vì cúp điện", "article_link": "https://cuoi.tuoitre.vn/than-tien-huc-hac-vi-cup-dien-20230606174122071.htm"}
+{"is_sarcastic": 1, "headline": "Na Tra dạo phố mùa hè", "article_link": "https://cuoi.tuoitre.vn/na-tra-dao-pho-mua-he-20230515105027341.htm"}
+{"is_sarcastic": 1, "headline": "Vé số dạo tạo doanh thu ngàn tỉ", "article_link": "https://cuoi.tuoitre.vn/ve-so-dao-tao-doanh-thu-ngan-ti-20230526155121372.htm"}
+{"is_sarcastic": 1, "headline": "Hạn chế áo vest tiết kiệm điện!", "article_link": "https://cuoi.tuoitre.vn/han-che-ao-vest-tiet-kiem-dien-20230518172642336.htm"}
+{"is_sarcastic": 1, "headline": "Bóng đá nam: Chiếc huy chương vàng 'kinh hoàng' nhất SEA Games", "article_link": "https://cuoi.tuoitre.vn/bong-da-nam-chiec-huy-chuong-vang-kinh-hoang-nhat-sea-games-20230517110840717.htm"}
+{"is_sarcastic": 1, "headline": "Tuyển nữ sẽ đá trận chung kết tưng bừng tạo tinh thần cho U22", "article_link": "https://cuoi.tuoitre.vn/tuyen-nu-se-da-tran-chung-ket-tung-bung-tao-tinh-than-cho-u22-20230515153155247.htm"}
+{"is_sarcastic": 1, "headline": "Điện thiếu trong thế thừa", "article_link": "https://cuoi.tuoitre.vn/dien-thieu-trong-the-thua-20230514141840362.htm"}
+{"is_sarcastic": 1, "headline": "'Cô gái vàng' Nguyễn Thị Oanh lập kỷ lục vô tiền khoáng hậu", "article_link": "https://cuoi.tuoitre.vn/co-gai-vang-nguyen-thi-oanh-lap-ky-luc-vo-tien-khoang-hau-20230509230228266.htm"}
+{"is_sarcastic": 1, "headline": "Metro số 1 bị vẽ bậy dù có tới 2 lớp bảo vệ", "article_link": "https://cuoi.tuoitre.vn/metro-so-1-bi-ve-bay-du-co-toi-2-lop-bao-ve-20230504130738996.htm"}
+{"is_sarcastic": 1, "headline": "Du khách chơi 'nhảy dây' với giá vé máy bay", "article_link": "https://cuoi.tuoitre.vn/du-khach-choi-nhay-day-voi-gia-ve-may-bay-20230429211835491.htm"}
+{"is_sarcastic": 1, "headline": "Người già 'tích tắc', người trẻ 'tóp tóp'", "article_link": "https://cuoi.tuoitre.vn/nguoi-gia-tich-tac-nguoi-tre-top-top-20230425003759253.htm"}
+{"is_sarcastic": 1, "headline": "Chuẩn bị 'ngàn lẻ một đêm' mới ký hợp đồng bảo hiểm", "article_link": "https://cuoi.tuoitre.vn/chuan-bi-ngan-le-mot-dem-moi-ky-hop-dong-bao-hiem-20230414231442107.htm"}
+{"is_sarcastic": 1, "headline": "Lợi ích khi dân số chạm mốc 100 triệu người", "article_link": "https://cuoi.tuoitre.vn/loi-ich-khi-dan-so-cham-moc-100-trieu-nguoi-20230411144350515.htm"}
+{"is_sarcastic": 1, "headline": "Tầm này còn 1 vạch gì nữa!?", "article_link": "https://cuoi.tuoitre.vn/tam-nay-con-1-vach-gi-nua-2022030475843158.htm"}
+{"is_sarcastic": 1, "headline": "Có 2 loai học sinh sau Tết", "article_link": "https://cuoi.tuoitre.vn/co-2-loai-hoc-sinh-sau-tet-2022020821994156.htm"}
+{"is_sarcastic": 1, "headline": "Những câu hỏi quen thuộc ngày Tết", "article_link": "https://cuoi.tuoitre.vn/nhung-cau-hoi-quen-thuoc-ngay-tet-2022012174866155.htm"}
+{"is_sarcastic": 1, "headline": "Tết này mang gì về cho mẹ?", "article_link": "https://cuoi.tuoitre.vn/tet-nay-mang-gi-ve-cho-me-2022012372783156.htm"}
+{"is_sarcastic": 1, "headline": "26 Tết vẫn chưa chịu về quê", "article_link": "https://cuoi.tuoitre.vn/26-tet-van-chua-chiu-ve-que-2022012344892152.htm"}
+{"is_sarcastic": 1, "headline": "Đã FA thì đừng mặc áo trễ vai", "article_link": "https://cuoi.tuoitre.vn/da-fa-thi-dung-mac-ao-tre-vai-2022012118918815.htm"}
+{"is_sarcastic": 1, "headline": "Phim kinh dị cuối năm âm lịch", "article_link": "https://cuoi.tuoitre.vn/phim-kinh-di-cuoi-nam-am-lich-2022011846697151.htm"}
+{"is_sarcastic": 1, "headline": "Sắm đồ Tết xưa và nay", "article_link": "https://cuoi.tuoitre.vn/sam-do-tet-xua-va-nay-2022011788941915.htm"}
+{"is_sarcastic": 1, "headline": "Các kiểu du lịch của Gen Z", "article_link": "https://cuoi.tuoitre.vn/cac-kieu-du-lich-cua-gen-z-2021122957868715.htm"}
+{"is_sarcastic": 1, "headline": "Tìm được con laptop 'giá sinh viên', mừng rơi nước mắt", "article_link": "https://cuoi.tuoitre.vn/tim-duoc-con-laptop-gia-sinh-vien-mung-roi-nuoc-mat-2021101460416158.htm"}
+{"is_sarcastic": 1, "headline": "Pha xử lý cồng kềnh của chàng trai tiêm 2 mũi", "article_link": "https://cuoi.tuoitre.vn/pha-xu-ly-cong-kenh-cua-chang-trai-tiem-2-mui-2021100796149154.htm"}
+{"is_sarcastic": 1, "headline": "Mở cửa đón nắng vào phòng", "article_link": "https://cuoi.tuoitre.vn/mo-cua-don-nang-vao-phong-2021100434015162.htm"}
+{"is_sarcastic": 1, "headline": "Bình thường mới với thực phẩm organic", "article_link": "https://cuoi.tuoitre.vn/binh-thuong-moi-voi-thuc-pham-organic-2021100256620158.htm"}
+{"is_sarcastic": 1, "headline": "Con gái tôi là bà chủ", "article_link": "https://cuoi.tuoitre.vn/con-gai-toi-la-ba-chu-2021100170948115.htm"}
+{"is_sarcastic": 1, "headline": "Kỹ sư xây dựng tán gái", "article_link": "https://cuoi.tuoitre.vn/ky-su-xay-dung-tan-gai-2021092824737158.htm"}
