@@ -17,6 +17,6 @@
 | STT   | Họ tên                 | MSSV       | Vai trò     | Email                  | 
 | :---: | ---                    | ---        | ---         | ---                    | 
 | 1 | <strong> Thi Vĩnh Huy | 21522165   | Nhóm trưởng  | 21522165@gm.uit.edu.vn | 
-| 1 | <strong> Trần Thanh Hà | 2152 | Thành viên | 2152@gm.uit.edu.vn |            
-| 3 | <strong> Ngô Xuân Cường | 2152 | Thành viên | 2152@gm.uit.edu.vn| 
-| 4 | <strong> Phi Quang Đạt | 2152 | Thành viên | 2152@gm.uit.edu.vn| 
+| 1 | <strong> Trần Thanh Hà | 21521749 | Thành viên | 2152@gm.uit.edu.vn |            
+| 3 | <strong> Ngô Xuân Cường | 21520663 | Thành viên | 2152@gm.uit.edu.vn| 
+| 4 | <strong> Phi Quang Đạt | 21520711 | Thành viên | 2152@gm.uit.edu.vn| 
